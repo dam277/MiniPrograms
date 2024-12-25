@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": "Sword Art Online",
+        "seasons": 4,
+        "episodes": 111,
+        "rate": 97.0
+    },
+    {
+        "id": 2,
+        "name": "Attack on titan",
+        "seasons": 3,
+        "episodes": 59,
+        "rate": 99
+    },
+    {
+        "id": 3,
+        "name": "Re:Zero",
+        "seasons": 3,
+        "episodes": 62,
+        "rate": 100
+    },
+    {
+        "id": 4,
+        "name": "Akame Ga Kill!",
+        "rate": 98.0,
+        "seasons": 1,
+        "episodes": 24
+    },
+    {
+        "id": 5,
+        "name": "Death Note",
+        "rate": 96.0,
+        "seasons": 1,
+        "episodes": 37
+    },
+    {
+        "id": 6,
+        "name": "Fate",
+        "rate": 95.0,
+        "seasons": 2,
+        "episodes": 49
+    },
+    {
+        "id": 7,
+        "name": "Owari No Seraph",
+        "rate": 94.0,
+        "seasons": 1,
+        "episodes": 12
+    },
+    {
+        "id": 8,
+        "name": "Avatar: The last airbender",
+        "rate": 101.5,
+        "seasons": 4,
+        "episodes": 61
+    },
+    {
+        "id": 9,
+        "name": "The legend of Korra",
+        "rate": 102.0,
+        "seasons": 3,
+        "episodes": 52
+    },
+    {
+        "id": 10,
+        "name": "Danganronpa",
+        "rate": 101.0,
+        "seasons": 5,
+        "episodes": 45
+    },
+    {
+        "id": 11,
+        "name": "Demon Slayer",
+        "rate": 93.0,
+        "seasons": 3,
+        "episodes": 55
+    },
+    {
+        "id": 12,
+        "name": "Darling In The FranxX",
+        "rate": 92.0,
+        "seasons": 1,
+        "episodes": 24
+    },
+    {
+        "id": 13,
+        "name": "Solo Leveling",
+        "rate": 91.0,
+        "seasons": 1,
+        "episodes": 7
+    },
+    {
+        "id": 14,
+        "name": "Assassination Classroom",
+        "rate": 90.0,
+        "seasons": 2,
+        "episodes": 49
+    },
+    {
+        "id": 15,
+        "name": "The Promised Neverland",
+        "rate": 89.0,
+        "seasons": 2,
+        "episodes": 23
+    },
+    {
+        "id": 16,
+        "name": "Death Parade",
+        "rate": 88.0,
+        "seasons": 1,
+        "episodes": 13
+    },
+    {
+        "id": 17,
+        "name": "Akashic Records Of Bastard Magic Instructor",
+        "rate": 87.0,
+        "seasons": 1,
+        "episodes": 12
+    },
+    {
+        "id": 18,
+        "name": "Dr. Stone",
+        "rate": 86.0,
+        "seasons": 2,
+        "episodes": 46
+    },
+    {
+        "id": 19,
+        "name": "Dororo",
+        "rate": 85.0,
+        "seasons": 1,
+        "episodes": 24
+    },
+    {
+        "id": 20,
+        "name": "Fire Force",
+        "rate": 84.0,
+        "seasons": 2,
+        "episodes": 48
+    },
+    {
+        "id": 21,
+        "name": "The Reincarnation of the Strongest Exorcist in Another World",
+        "rate": 83.0,
+        "seasons": 1,
+        "episodes": 13
+    },
+    {
+        "id": 22,
+        "name": "Reborn To Master The Blade",
+        "rate": 82.0,
+        "seasons": 1,
+        "episodes": 12
+    },
+    {
+        "id": 23,
+        "name": "Souvenir Goutte \u00e0 Goutte",
+        "rate": 81.0,
+        "seasons": 1,
+        "episodes": 1
+    }
+]

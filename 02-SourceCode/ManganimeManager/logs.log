@@ -1,0 +1,211 @@
+INFO -> 24-12-2024 21:01:44 : Exiting the application
+success -> 24-12-2024 22:01:14 : Command [Add] registered
+success -> 24-12-2024 22:01:14 : Command [Delete] registered
+success -> 24-12-2024 22:01:14 : Command [List] registered
+success -> 24-12-2024 22:01:14 : Command [Update] registered
+success -> 24-12-2024 22:01:14 : Data loaded successfully
+SUCCESS -> 24-12-2024 22:03:32 : Command [Add] registered
+SUCCESS -> 24-12-2024 22:03:32 : Command [Delete] registered
+SUCCESS -> 24-12-2024 22:03:32 : Command [List] registered
+SUCCESS -> 24-12-2024 22:03:32 : Command [Update] registered
+SUCCESS -> 24-12-2024 22:03:32 : Data loaded successfully
+INFO -> 25-12-2024 01:47:24 : Registering command [Add]
+INFO -> 25-12-2024 01:47:24 : Registering command [Delete]
+INFO -> 25-12-2024 01:47:24 : Registering command [List]
+INFO -> 25-12-2024 01:47:24 : Registering command [Update]
+INFO -> 25-12-2024 01:47:24 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:47:24 : Data loaded successfully
+INFO -> 25-12-2024 01:47:27 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:47:29 : Loading data from src/data/mangas.json
+INFO -> 25-12-2024 01:47:42 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:47:42 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:47:42 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:47:42 : Entry added successfully
+INFO -> 25-12-2024 01:47:46 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:52:03 : Registering command [Add]
+INFO -> 25-12-2024 01:52:03 : Registering command [Delete]
+INFO -> 25-12-2024 01:52:03 : Registering command [List]
+INFO -> 25-12-2024 01:52:03 : Registering command [Update]
+INFO -> 25-12-2024 01:52:03 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:52:03 : Data loaded successfully
+INFO -> 25-12-2024 01:52:04 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:52:10 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:52:18 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:52:18 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:52:18 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:52:18 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:52:18 : Entry updated successfully
+INFO -> 25-12-2024 01:52:22 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:52:29 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:03 : Registering command [Add]
+INFO -> 25-12-2024 01:53:03 : Registering command [Delete]
+INFO -> 25-12-2024 01:53:03 : Registering command [List]
+INFO -> 25-12-2024 01:53:03 : Registering command [Update]
+INFO -> 25-12-2024 01:53:03 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:53:03 : Data loaded successfully
+INFO -> 25-12-2024 01:53:05 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:06 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:06 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:53:06 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:53:06 : Entry deleted successfully
+INFO -> 25-12-2024 01:53:08 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:22 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:22 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:53:22 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:53:22 : Entry added successfully
+INFO -> 25-12-2024 01:53:25 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:36 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:38 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:38 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:53:38 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:53:38 : Entry deleted successfully
+INFO -> 25-12-2024 01:53:52 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:53:52 : Loading data from src/data/animes.json
+ERROR -> 25-12-2024 01:53:52 : This entry already exists
+SUCCESS -> 25-12-2024 01:53:52 : This entry already exists
+INFO -> 25-12-2024 01:54:05 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:54:29 : Registering command [Add]
+INFO -> 25-12-2024 01:54:29 : Registering command [Delete]
+INFO -> 25-12-2024 01:54:29 : Registering command [List]
+INFO -> 25-12-2024 01:54:29 : Registering command [Update]
+INFO -> 25-12-2024 01:54:29 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:54:29 : Data loaded successfully
+INFO -> 25-12-2024 01:54:33 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:54:33 : Loading data from src/data/animes.json
+ERROR -> 25-12-2024 01:54:33 : This entry already exists
+INFO -> 25-12-2024 01:55:55 : Registering command [Add]
+INFO -> 25-12-2024 01:55:55 : Registering command [Delete]
+INFO -> 25-12-2024 01:55:55 : Registering command [List]
+INFO -> 25-12-2024 01:55:55 : Registering command [Update]
+INFO -> 25-12-2024 01:55:55 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:55:55 : Data loaded successfully
+INFO -> 25-12-2024 01:56:35 : Registering command [Add]
+INFO -> 25-12-2024 01:56:35 : Registering command [Delete]
+INFO -> 25-12-2024 01:56:35 : Registering command [List]
+INFO -> 25-12-2024 01:56:35 : Registering command [Update]
+INFO -> 25-12-2024 01:56:35 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:56:35 : Data loaded successfully
+INFO -> 25-12-2024 01:57:17 : Registering command [Add]
+INFO -> 25-12-2024 01:57:17 : Registering command [Delete]
+INFO -> 25-12-2024 01:57:17 : Registering command [List]
+INFO -> 25-12-2024 01:57:17 : Registering command [Update]
+INFO -> 25-12-2024 01:57:17 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:57:17 : Data loaded successfully
+INFO -> 25-12-2024 01:57:28 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:57:28 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:57:28 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:57:28 : Entry added successfully
+INFO -> 25-12-2024 01:57:35 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:57:42 : Loading data from src/data/mangas.json
+INFO -> 25-12-2024 01:58:01 : Registering command [Add]
+INFO -> 25-12-2024 01:58:01 : Registering command [Delete]
+INFO -> 25-12-2024 01:58:01 : Registering command [List]
+INFO -> 25-12-2024 01:58:01 : Registering command [Update]
+INFO -> 25-12-2024 01:58:01 : Loading data from e:\Development\02-Programs\Python\animeEpisodes\src\data\app.json
+SUCCESS -> 25-12-2024 01:58:01 : Data loaded successfully
+INFO -> 25-12-2024 01:58:06 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:58:10 : Loading data from src/data/mangas.json
+INFO -> 25-12-2024 01:58:13 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:58:18 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 01:58:18 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 01:58:18 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 01:58:18 : Entry deleted successfully
+INFO -> 25-12-2024 01:58:21 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:01:45 : Registering command [Add]
+INFO -> 25-12-2024 02:01:45 : Registering command [Delete]
+INFO -> 25-12-2024 02:01:45 : Registering command [List]
+INFO -> 25-12-2024 02:01:45 : Registering command [Update]
+INFO -> 25-12-2024 02:02:12 : Registering command [Add]
+INFO -> 25-12-2024 02:02:12 : Registering command [Delete]
+INFO -> 25-12-2024 02:02:12 : Registering command [List]
+INFO -> 25-12-2024 02:02:12 : Registering command [Update]
+INFO -> 25-12-2024 02:02:12 : Loading data from C:\Users\damis\AppData\Local\Temp\_MEI193322\src\data\app.json
+SUCCESS -> 25-12-2024 02:02:12 : Data loaded successfully
+INFO -> 25-12-2024 02:02:22 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:02:32 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:02:32 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 02:02:32 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 02:02:32 : Entry added successfully
+INFO -> 25-12-2024 02:02:34 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:02:37 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:02:39 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:02:39 : Loading data from src/data/animes.json
+SUCCESS -> 25-12-2024 02:02:39 : Data written to src/data/animes.json
+SUCCESS -> 25-12-2024 02:02:39 : Entry deleted successfully
+INFO -> 25-12-2024 02:02:41 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:02:46 : Exiting the application...
+INFO -> 25-12-2024 02:05:39 : Registering command [Add]
+INFO -> 25-12-2024 02:05:39 : Registering command [Delete]
+INFO -> 25-12-2024 02:05:39 : Registering command [List]
+INFO -> 25-12-2024 02:05:39 : Registering command [Update]
+INFO -> 25-12-2024 02:07:32 : Registering command [Add]
+INFO -> 25-12-2024 02:07:32 : Registering command [Delete]
+INFO -> 25-12-2024 02:07:32 : Registering command [List]
+INFO -> 25-12-2024 02:07:32 : Registering command [Update]
+INFO -> 25-12-2024 02:07:39 : Registering command [Add]
+INFO -> 25-12-2024 02:07:39 : Registering command [Delete]
+INFO -> 25-12-2024 02:07:39 : Registering command [List]
+INFO -> 25-12-2024 02:07:39 : Registering command [Update]
+INFO -> 25-12-2024 02:07:39 : Loading data from C:\Users\damis\AppData\Local\Temp\_MEI655842\src\data\app.json
+SUCCESS -> 25-12-2024 02:07:39 : Data loaded successfully
+INFO -> 25-12-2024 02:07:44 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:08:36 : Registering command [Add]
+INFO -> 25-12-2024 02:08:36 : Registering command [Delete]
+INFO -> 25-12-2024 02:08:36 : Registering command [List]
+INFO -> 25-12-2024 02:08:36 : Registering command [Update]
+INFO -> 25-12-2024 02:08:45 : Registering command [Add]
+INFO -> 25-12-2024 02:08:45 : Registering command [Delete]
+INFO -> 25-12-2024 02:08:45 : Registering command [List]
+INFO -> 25-12-2024 02:08:45 : Registering command [Update]
+INFO -> 25-12-2024 02:08:45 : Loading data from C:\Users\damis\AppData\Local\Temp\_MEI614362\src\data\app.json
+SUCCESS -> 25-12-2024 02:08:45 : Data loaded successfully
+ERROR -> 25-12-2024 02:08:48 : An error occurred: not enough values to unpack (expected 4, got 1)
+INFO -> 25-12-2024 02:09:33 : Registering command [Add]
+INFO -> 25-12-2024 02:09:33 : Registering command [Delete]
+INFO -> 25-12-2024 02:09:33 : Registering command [List]
+INFO -> 25-12-2024 02:09:33 : Registering command [Update]
+INFO -> 25-12-2024 02:09:42 : Registering command [Add]
+INFO -> 25-12-2024 02:09:42 : Registering command [Delete]
+INFO -> 25-12-2024 02:09:42 : Registering command [List]
+INFO -> 25-12-2024 02:09:42 : Registering command [Update]
+INFO -> 25-12-2024 02:09:42 : Loading data from C:\Users\damis\AppData\Local\Temp\_MEI500442\src\data\app.json
+SUCCESS -> 25-12-2024 02:09:42 : Data loaded successfully
+ERROR -> 25-12-2024 02:09:44 : An error occurred: not enough values to unpack (expected 4, got 1)
+INFO -> 25-12-2024 02:10:50 : Registering command [Add]
+INFO -> 25-12-2024 02:10:50 : Registering command [Delete]
+INFO -> 25-12-2024 02:10:50 : Registering command [List]
+INFO -> 25-12-2024 02:10:50 : Registering command [Update]
+INFO -> 25-12-2024 02:10:58 : Registering command [Add]
+INFO -> 25-12-2024 02:10:58 : Registering command [Delete]
+INFO -> 25-12-2024 02:10:58 : Registering command [List]
+INFO -> 25-12-2024 02:10:58 : Registering command [Update]
+INFO -> 25-12-2024 02:10:58 : Loading data from C:\Users\damis\AppData\Local\Temp\_MEI220802\src\data\app.json
+SUCCESS -> 25-12-2024 02:10:58 : Data loaded successfully
+ERROR -> 25-12-2024 02:11:00 : An error occurred: not enough values to unpack (expected 4, got 1)
+INFO -> 25-12-2024 02:11:11 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:11:13 : Exiting the application...
+INFO -> 25-12-2024 02:13:46 : Registering command [Add]
+INFO -> 25-12-2024 02:13:46 : Registering command [Delete]
+INFO -> 25-12-2024 02:13:46 : Registering command [List]
+INFO -> 25-12-2024 02:13:46 : Registering command [Update]
+INFO -> 25-12-2024 02:14:07 : Registering command [Add]
+INFO -> 25-12-2024 02:14:07 : Registering command [Delete]
+INFO -> 25-12-2024 02:14:07 : Registering command [List]
+INFO -> 25-12-2024 02:14:07 : Registering command [Update]
+INFO -> 25-12-2024 02:18:14 : Registering command [Add]
+INFO -> 25-12-2024 02:18:14 : Registering command [Delete]
+INFO -> 25-12-2024 02:18:14 : Registering command [List]
+INFO -> 25-12-2024 02:18:14 : Registering command [Update]
+INFO -> 25-12-2024 02:28:51 : Registering command [Add]
+INFO -> 25-12-2024 02:28:51 : Registering command [Delete]
+INFO -> 25-12-2024 02:28:51 : Registering command [List]
+INFO -> 25-12-2024 02:28:51 : Registering command [Update]
+INFO -> 25-12-2024 02:28:51 : Loading data from e:\Development\01-Github\Repositories\MiniPrograms\02-SourceCode\ManganimeManager\src\data\app.json
+SUCCESS -> 25-12-2024 02:28:51 : Data loaded successfully
+INFO -> 25-12-2024 02:28:55 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 02:29:00 : Loading data from src/data/animes.json
+ERROR -> 25-12-2024 02:29:02 : An error occurred: 'NoneType' object is not subscriptable
+ERROR -> 25-12-2024 02:29:04 : An error occurred: 'NoneType' object is not subscriptable
+ERROR -> 25-12-2024 02:29:04 : An error occurred: 'NoneType' object is not subscriptable
+ERROR -> 25-12-2024 02:29:04 : An error occurred: 'NoneType' object is not subscriptable
+INFO -> 25-12-2024 02:29:05 : Exiting the application...

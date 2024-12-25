@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Sword art online",
+        "seasons": 4,
+        "episodes": 111,
+        "rate": 97
+    },
+    {
+        "id": 2,
+        "name": "Attack on titan",
+        "seasons": 3,
+        "episodes": 59,
+        "rate": 99
+    },
+    {
+        "id": 3,
+        "name": "Re:Zero",
+        "rate": 100,
+        "seasons": 3,
+        "episodes": 62
+    }
+]

@@ -1,0 +1,62 @@
+years_anime = 6
+years_manga = 1
+
+# List of anime episodes watched
+episodes = [13, 12, 37, 24, 24, 89, 1, 52, 61, 12, 13, 24, 23, 49, 48, 46, 55, 12, 57, 24, 111, 45]
+tomes = [1]
+
+# Calculate the total number of episodes watched
+total_episodes = sum(episodes)
+total_tomes = sum(tomes)
+
+print(Fore.BLUE, f"Total episodes in {years_anime} years : {total_episodes}")
+print(Fore.BLUE, f"Total tomes in {years_manga} years : {total_tomes}")
+
+# Calculate average episodes per year, month, week, and day
+average_per_year_anime = total_episodes / years_anime
+average_per_month_anime = total_episodes / (years_anime * 12)  # 12 months per year
+average_per_week_anime = total_episodes / (years_anime * 52)  # 52 weeks per year
+average_per_day_anime = total_episodes / (years_anime * 365)  # Approximate days per year
+
+# Calculate average episodes per year, month, week, and day
+average_per_year_manga = total_tomes / years_manga
+average_per_month_manga = total_tomes / (years_manga * 12)  # 12 months per year
+average_per_week_manga = total_tomes / (years_manga * 52)  # 52 weeks per year
+average_per_day_manga = total_tomes / (years_manga * 365)  # Approximate days per year
+
+print("-" * 50)
+print(Fore.GREEN, "Average episodes :")
+print(Fore.CYAN, f"Per year : {average_per_year_anime:.3f}")
+print(Fore.CYAN, f"Per month : {average_per_month_anime:.3f}")
+print(Fore.CYAN, f"Per week : {average_per_week_anime:.3f}")
+print(Fore.CYAN, f"Per day : {average_per_day_anime:.3f}")
+
+print("-" * 50)
+print(Fore.GREEN, "Average tomes :")
+print(Fore.CYAN, f"Per year : {average_per_year_manga:.3f}")
+print(Fore.CYAN, f"Per month : {average_per_month_manga:.3f}")
+print(Fore.CYAN, f"Per week : {average_per_week_manga:.3f}")
+print(Fore.CYAN, f"Per day : {average_per_day_manga:.3f}")
+
+print(Fore.RESET)
+
+
+
+
+# app = App("Anime and Manga", 1200, 800)
+    # app.set_window()
+
+    # anime_tree = app.display_treeview(animes, ['id', 'Name', 'Seasons', 'Episodes', 'Rate'], "Animes list")
+    # app.sort_treeview(anime_tree, 'id', False)
+    # app.sort_treeview(anime_tree, 'Name', False)
+    # app.sort_treeview(anime_tree, 'Seasons', False)
+    # app.sort_treeview(anime_tree, 'Episodes', False)
+    # app.sort_treeview(anime_tree, 'Rate', True)
+
+    # manga_tree = app.display_treeview(mangas, ['id', 'Name', 'Tomes', 'Rate'], "Mangas list")
+    # app.sort_treeview(manga_tree, 'id', False)
+    # app.sort_treeview(manga_tree, 'Name', False)
+    # app.sort_treeview(manga_tree, 'Tomes', False)
+    # app.sort_treeview(manga_tree, 'Rate', True)
+
+    # app.display()

@@ -1,0 +1,13 @@
+{
+    "menu":
+    { 
+        "options": 
+        {
+            "Add" : ["Anime", "Manga", "Back"],
+            "Update" : ["Anime", "Manga", "Back"],
+            "Delete" : ["Anime", "Manga", "Back"],
+            "List" : ["Anime", "Manga", "Back"],
+            "Exit" : null
+        }
+    }
+}
