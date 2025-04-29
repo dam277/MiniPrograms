@@ -1,0 +1,21 @@
+{
+    "modules": {
+        "BRIT2": 190,
+        "INGL1": 367,
+        "INGP": 198,
+        "OGEN": 266
+    },
+    "absences": [
+        {
+            "BRIT2": 2,
+            "INGL1": 13,
+            "INGP": 7,
+            "OGEN": 11
+        },
+        {
+            "INGL1": 4,
+            "INGP": 3,
+            "BRIT2": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "TE1 - Révisions théorie",
+        "description": "Révisions de la théorie vue en cours",
+        "fk_course": 1,
+        "questions":
+        [
+            {
+                "question": "Quelles sont les fonctions principales de la Class String ?",
+                "type": "multipleText",
+                "correctAnswers": 
+                [
+                    "equals()",
+                    "equalsIgnoreCase()"
+                ]
+            },
+            {
+                "question": "Comment déclarer un getter en Java ? <br> la variable de classe est : <br> private String nom;",
+                "type": "longAnswer",
+                "correctAnswer": "public String getNom() { return nom; }"
+            }
+        ]   
+    }
+]

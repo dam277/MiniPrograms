@@ -106,7 +106,7 @@ class Command(ABC):
             return
         def decorator(func: callable):
             # Add the command to the list
-            Logger.get_instance().info(f"Registering command [{name}]")
+            Logger.get_instance().info(f"Registering command [{name}]", True)
             Command.commands.append({"name": name, "parent": parent})
             def wrapper(*args, **kwargs):
                 return func(*args, **kwargs)

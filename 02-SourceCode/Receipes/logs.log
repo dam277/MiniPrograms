@@ -1,0 +1,1901 @@
+INFO -> 28-12-2024 07:43:29 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 07:43:48 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 07:43:57 : Loading data from src\langs\fr.json
+INFO -> 28-12-2024 08:24:27 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:24:32 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:24:55 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:26:31 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:26:56 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:28:24 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:29:40 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:29:59 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:30:01 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:30:52 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:30:53 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:31:09 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:31:10 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:31:18 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:31:19 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:35:14 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:35:15 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:38:56 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:38:57 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:46:24 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:46:25 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 08:46:43 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 08:46:44 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 18:48:13 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 18:48:15 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 19:15:01 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 19:15:03 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 19:31:26 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:01:35 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:05:15 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:05:16 : Loading data from src/data/receipes.json
+INFO -> 28-12-2024 20:15:14 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:29:37 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:29:48 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:29:56 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:30:40 : Loading data from src\langs\en.json
+INFO -> 28-12-2024 20:31:35 : Loading data from src\langs\en.json
+SUCCESS -> 28-12-2024 20:46:38 : Route: home created
+SUCCESS -> 28-12-2024 20:46:38 : Route: receipes created
+SUCCESS -> 28-12-2024 20:47:17 : Route: home created
+SUCCESS -> 28-12-2024 20:47:17 : Route: receipes created
+SUCCESS -> 28-12-2024 20:49:43 : Route: home created
+SUCCESS -> 28-12-2024 20:49:43 : Route: receipes created
+SUCCESS -> 28-12-2024 20:51:10 : Route: home created
+SUCCESS -> 28-12-2024 20:51:10 : Route: receipes created
+INFO -> 28-12-2024 20:51:30 : Registering command [home]
+SUCCESS -> 28-12-2024 20:51:30 : Route: receipes created
+INFO -> 28-12-2024 20:52:52 : Registering command [home]
+INFO -> 28-12-2024 20:52:52 : Registering command [receipes]
+INFO -> 28-12-2024 20:53:15 : Registering command [home]
+SUCCESS -> 28-12-2024 20:53:15 : Route: receipes created
+SUCCESS -> 28-12-2024 20:59:48 : Route: home created
+SUCCESS -> 28-12-2024 20:59:48 : Route: receipes created
+SUCCESS -> 28-12-2024 21:00:28 : Route: home created
+SUCCESS -> 28-12-2024 21:00:28 : Route: receipes created
+SUCCESS -> 28-12-2024 21:03:01 : Route: home created
+SUCCESS -> 28-12-2024 21:03:01 : Route: receipes created
+SUCCESS -> 28-12-2024 21:03:15 : Route: home created
+SUCCESS -> 28-12-2024 21:03:15 : Route: receipes created
+SUCCESS -> 28-12-2024 21:05:23 : Route: home created
+SUCCESS -> 28-12-2024 21:05:23 : Route: receipes created
+SUCCESS -> 28-12-2024 21:07:24 : Route: home created
+SUCCESS -> 28-12-2024 21:07:24 : Route: receipes created
+SUCCESS -> 28-12-2024 21:08:19 : Route: home created
+SUCCESS -> 28-12-2024 21:08:19 : Route: receipes created
+SUCCESS -> 28-12-2024 21:09:08 : Route: home created
+SUCCESS -> 28-12-2024 21:09:08 : Route: receipes created
+SUCCESS -> 28-12-2024 21:09:34 : Route: home created
+SUCCESS -> 28-12-2024 21:09:34 : Route: receipes created
+SUCCESS -> 28-12-2024 21:10:30 : Route: home created
+SUCCESS -> 28-12-2024 21:10:30 : Route: receipes created
+SUCCESS -> 28-12-2024 21:10:38 : Route: home created
+SUCCESS -> 28-12-2024 21:10:38 : Route: receipes created
+SUCCESS -> 28-12-2024 21:11:17 : Route: home created
+SUCCESS -> 28-12-2024 21:11:17 : Route: receipes created
+SUCCESS -> 28-12-2024 21:12:18 : Route: home created
+SUCCESS -> 28-12-2024 21:12:18 : Route: receipes created
+SUCCESS -> 28-12-2024 21:12:32 : Route: home created
+SUCCESS -> 28-12-2024 21:12:32 : Route: receipes created
+SUCCESS -> 28-12-2024 21:16:48 : Route: home created
+SUCCESS -> 28-12-2024 21:16:48 : Route: receipes created
+SUCCESS -> 28-12-2024 21:17:37 : Route: home created
+SUCCESS -> 28-12-2024 21:17:37 : Route: receipes created
+SUCCESS -> 28-12-2024 21:17:50 : Route: home created
+SUCCESS -> 28-12-2024 21:17:50 : Route: receipes created
+SUCCESS -> 28-12-2024 21:18:32 : Route: home created
+SUCCESS -> 28-12-2024 21:18:32 : Route: receipes created
+SUCCESS -> 28-12-2024 21:19:53 : Route: home created
+SUCCESS -> 28-12-2024 21:19:53 : Route: receipes created
+SUCCESS -> 28-12-2024 21:20:17 : Route: home created
+SUCCESS -> 28-12-2024 21:20:17 : Route: receipes created
+SUCCESS -> 28-12-2024 21:21:27 : Route: home created
+SUCCESS -> 28-12-2024 21:21:27 : Route: receipes created
+SUCCESS -> 29-12-2024 18:46:08 : Route: home created
+SUCCESS -> 29-12-2024 18:46:08 : Route: receipes created
+SUCCESS -> 29-12-2024 18:46:30 : Route: home created
+SUCCESS -> 29-12-2024 18:46:30 : Route: receipes created
+SUCCESS -> 29-12-2024 18:56:23 : Route: home created
+SUCCESS -> 29-12-2024 18:56:23 : Route: receipes created
+SUCCESS -> 29-12-2024 18:57:13 : Route: home created
+SUCCESS -> 29-12-2024 18:57:13 : Route: receipes created
+SUCCESS -> 29-12-2024 18:57:32 : Route: home created
+SUCCESS -> 29-12-2024 18:57:32 : Route: receipes created
+SUCCESS -> 29-12-2024 18:58:08 : Route: home created
+SUCCESS -> 29-12-2024 18:58:08 : Route: receipes created
+SUCCESS -> 29-12-2024 18:58:16 : Route: home created
+SUCCESS -> 29-12-2024 18:58:16 : Route: receipes created
+SUCCESS -> 29-12-2024 19:00:44 : Route: home created
+SUCCESS -> 29-12-2024 19:00:44 : Route: receipes created
+INFO -> 29-12-2024 19:00:44 : Loading data from src\langs\en.json
+INFO -> 29-12-2024 19:00:47 : Loading data from src\langs\en.json
+SUCCESS -> 29-12-2024 19:04:03 : Route: home created
+SUCCESS -> 29-12-2024 19:04:03 : Route: receipes created
+INFO -> 29-12-2024 19:04:03 : Loading data from src\langs\en.json
+SUCCESS -> 29-12-2024 19:04:10 : Route: home created
+SUCCESS -> 29-12-2024 19:04:10 : Route: receipes created
+INFO -> 29-12-2024 19:04:10 : Loading data from src\langs\en.json
+SUCCESS -> 29-12-2024 19:05:53 : Route: home created
+SUCCESS -> 29-12-2024 19:05:53 : Route: receipes created
+SUCCESS -> 29-12-2024 19:08:50 : Route: home created
+SUCCESS -> 29-12-2024 19:08:50 : Route: receipes created
+SUCCESS -> 29-12-2024 19:09:10 : Route: home created
+SUCCESS -> 29-12-2024 19:09:10 : Route: receipes created
+INFO -> 29-12-2024 19:09:10 : Loading data from src\langs\en.json
+INFO -> 29-12-2024 19:09:12 : Loading data from src\langs\en.json
+INFO -> 29-12-2024 19:09:12 : Loading data from src\langs\en.json
+SUCCESS -> 29-12-2024 19:10:52 : Route: home created
+SUCCESS -> 29-12-2024 19:10:52 : Route: receipes created
+INFO -> 29-12-2024 19:10:52 : Loading data from src\langs\en.json
+SUCCESS -> 29-12-2024 19:11:06 : Route: home created
+SUCCESS -> 29-12-2024 19:11:06 : Route: receipes created
+SUCCESS -> 29-12-2024 19:11:36 : Route: home created
+SUCCESS -> 29-12-2024 19:11:36 : Route: receipes created
+INFO -> 29-12-2024 19:11:36 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:11:38 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:31:09 : Route: home created
+SUCCESS -> 29-12-2024 19:31:09 : Route: receipes created
+SUCCESS -> 29-12-2024 19:32:21 : Route: home created
+SUCCESS -> 29-12-2024 19:32:21 : Route: receipes created
+SUCCESS -> 29-12-2024 19:33:52 : Route: home created
+SUCCESS -> 29-12-2024 19:33:52 : Route: receipes created
+INFO -> 29-12-2024 19:33:52 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:34:21 : Route: home created
+SUCCESS -> 29-12-2024 19:34:21 : Route: receipes created
+INFO -> 29-12-2024 19:34:21 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:34:31 : Route: home created
+SUCCESS -> 29-12-2024 19:34:31 : Route: receipes created
+INFO -> 29-12-2024 19:34:31 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:40:56 : Route: home created
+SUCCESS -> 29-12-2024 19:40:56 : Route: receipes created
+INFO -> 29-12-2024 19:40:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:41:29 : Route: home created
+SUCCESS -> 29-12-2024 19:41:29 : Route: receipes created
+INFO -> 29-12-2024 19:41:29 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:42:59 : Route: home created
+SUCCESS -> 29-12-2024 19:42:59 : Route: receipes created
+INFO -> 29-12-2024 19:42:59 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:43:11 : Route: home created
+SUCCESS -> 29-12-2024 19:43:11 : Route: receipes created
+INFO -> 29-12-2024 19:43:11 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:44:25 : Route: home created
+SUCCESS -> 29-12-2024 19:44:25 : Route: receipes created
+INFO -> 29-12-2024 19:44:25 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:45:37 : Route: home created
+SUCCESS -> 29-12-2024 19:45:37 : Route: receipes created
+INFO -> 29-12-2024 19:45:38 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:45:44 : Route: home created
+SUCCESS -> 29-12-2024 19:45:44 : Route: receipes created
+INFO -> 29-12-2024 19:45:44 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:46:07 : Route: home created
+SUCCESS -> 29-12-2024 19:46:07 : Route: receipes created
+INFO -> 29-12-2024 19:46:07 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:46:09 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:46:12 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:46:13 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:46:15 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:46:17 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:46:19 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 19:47:08 : Route: home created
+SUCCESS -> 29-12-2024 19:47:08 : Route: receipes created
+INFO -> 29-12-2024 19:47:08 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:47:11 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:47:13 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 19:49:04 : Route: home created
+SUCCESS -> 29-12-2024 19:49:04 : Route: receipes created
+INFO -> 29-12-2024 19:49:04 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:49:05 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:49:07 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 19:50:08 : Route: home created
+SUCCESS -> 29-12-2024 19:50:08 : Route: receipes created
+INFO -> 29-12-2024 19:50:08 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:50:09 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:50:10 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:50:12 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 19:50:13 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:52:18 : Route: home created
+SUCCESS -> 29-12-2024 19:52:18 : Route: receipes created
+INFO -> 29-12-2024 19:52:19 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 19:52:48 : Route: home created
+SUCCESS -> 29-12-2024 19:52:48 : Route: receipes created
+INFO -> 29-12-2024 19:52:49 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:52:52 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:52:53 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 19:54:08 : Route: home created
+SUCCESS -> 29-12-2024 19:54:08 : Route: receipes created
+INFO -> 29-12-2024 19:54:09 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:54:10 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:54:11 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 19:56:33 : Route: home created
+SUCCESS -> 29-12-2024 19:56:33 : Route: receipes created
+INFO -> 29-12-2024 19:56:33 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:56:35 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:56:36 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:56:36 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:56:37 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:56:38 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:56:39 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 19:59:00 : Route: home created
+SUCCESS -> 29-12-2024 19:59:00 : Route: receipes created
+INFO -> 29-12-2024 19:59:00 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:01 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:03 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:06 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:06 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:06 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:07 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:07 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:07 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 19:59:07 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:01:30 : Route: home created
+SUCCESS -> 29-12-2024 20:01:30 : Route: receipes created
+INFO -> 29-12-2024 20:01:30 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:01:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:05:08 : Route: home created
+SUCCESS -> 29-12-2024 20:05:08 : Route: receipes created
+SUCCESS -> 29-12-2024 20:06:07 : Route: home created
+SUCCESS -> 29-12-2024 20:06:07 : Route: receipes created
+SUCCESS -> 29-12-2024 20:06:28 : Route: home created
+SUCCESS -> 29-12-2024 20:06:28 : Route: receipes created
+SUCCESS -> 29-12-2024 20:06:51 : Route: home created
+SUCCESS -> 29-12-2024 20:06:51 : Route: receipes created
+INFO -> 29-12-2024 20:06:51 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:08:49 : Route: home created
+SUCCESS -> 29-12-2024 20:08:49 : Route: receipes created
+INFO -> 29-12-2024 20:08:49 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:51 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:51 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:51 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:52 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:52 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:52 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:53 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:53 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:53 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:53 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:55 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:56 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 20:08:57 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:08:58 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 20:08:58 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 20:09:28 : Route: home created
+SUCCESS -> 29-12-2024 20:09:28 : Route: receipes created
+INFO -> 29-12-2024 20:09:28 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:09:59 : Route: home created
+SUCCESS -> 29-12-2024 20:09:59 : Route: receipes created
+INFO -> 29-12-2024 20:09:59 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:03 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:04 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:04 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:10:11 : Route: home created
+SUCCESS -> 29-12-2024 20:10:11 : Route: receipes created
+INFO -> 29-12-2024 20:10:11 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:10:17 : Route: home created
+SUCCESS -> 29-12-2024 20:10:17 : Route: receipes created
+INFO -> 29-12-2024 20:10:17 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:21 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:22 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:10:23 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:11:06 : Route: home created
+SUCCESS -> 29-12-2024 20:11:06 : Route: receipes created
+SUCCESS -> 29-12-2024 20:11:57 : Route: home created
+SUCCESS -> 29-12-2024 20:11:57 : Route: receipes created
+SUCCESS -> 29-12-2024 20:12:28 : Route: home created
+SUCCESS -> 29-12-2024 20:12:28 : Route: receipes created
+INFO -> 29-12-2024 20:12:28 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:31 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:32 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:32 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:32 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:33 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:36 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:36 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:37 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:37 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:38 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:38 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:12:53 : Route: home created
+SUCCESS -> 29-12-2024 20:12:53 : Route: receipes created
+INFO -> 29-12-2024 20:12:53 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:54 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:55 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:56 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:57 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 20:12:58 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:12:59 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 20:13:00 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 20:13:00 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:13:03 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:13:08 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 20:13:38 : Route: home created
+SUCCESS -> 29-12-2024 20:13:38 : Route: receipes created
+INFO -> 29-12-2024 20:13:38 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:13:40 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:13:40 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:15:10 : Route: home created
+SUCCESS -> 29-12-2024 20:15:10 : Route: receipes created
+INFO -> 29-12-2024 20:15:10 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:12 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:12 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:13 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:13 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:14 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:14 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:14 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:15 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:15 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:15 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:24 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:24 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:25 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:26 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:26 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:26 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:27 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:27 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:27 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:28 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:29 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:29 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:30 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:30 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:30 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:31 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:31 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:32 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:33 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:35 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:35 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:15:36 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:16:03 : Route: home created
+SUCCESS -> 29-12-2024 20:16:03 : Route: receipes created
+INFO -> 29-12-2024 20:16:03 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:16:04 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:16:04 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 20:16:05 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:58:34 : Route: home created
+SUCCESS -> 29-12-2024 20:58:34 : Route: receipes created
+INFO -> 29-12-2024 20:58:34 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 20:58:49 : Route: home created
+SUCCESS -> 29-12-2024 20:58:49 : Route: receipes created
+SUCCESS -> 29-12-2024 20:59:13 : Route: home created
+SUCCESS -> 29-12-2024 20:59:13 : Route: receipes created
+INFO -> 29-12-2024 20:59:14 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:03:02 : Route: home created
+SUCCESS -> 29-12-2024 21:03:02 : Route: receipes created
+INFO -> 29-12-2024 21:03:02 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:03:04 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:03:05 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 21:03:06 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:03:12 : Route: home created
+SUCCESS -> 29-12-2024 21:03:12 : Route: receipes created
+INFO -> 29-12-2024 21:03:12 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:04:39 : Route: home created
+SUCCESS -> 29-12-2024 21:04:39 : Route: receipes created
+INFO -> 29-12-2024 21:04:39 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:42 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:42 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:43 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:44 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:44 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:45 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:04:47 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 21:05:12 : Route: home created
+SUCCESS -> 29-12-2024 21:05:12 : Route: receipes created
+INFO -> 29-12-2024 21:05:12 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:05:14 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:05:25 : Route: home created
+SUCCESS -> 29-12-2024 21:05:25 : Route: receipes created
+INFO -> 29-12-2024 21:05:25 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:05:31 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:06:28 : Route: home created
+SUCCESS -> 29-12-2024 21:06:28 : Route: receipes created
+INFO -> 29-12-2024 21:06:28 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:06:30 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 21:07:38 : Route: home created
+SUCCESS -> 29-12-2024 21:07:38 : Route: receipes created
+INFO -> 29-12-2024 21:07:38 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:07:40 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:07:41 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:07:56 : Route: home created
+SUCCESS -> 29-12-2024 21:07:56 : Route: receipes created
+INFO -> 29-12-2024 21:07:56 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:07:57 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 21:07:58 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 21:11:19 : Route: home created
+SUCCESS -> 29-12-2024 21:11:19 : Route: receipes created
+SUCCESS -> 29-12-2024 21:11:46 : Route: home created
+SUCCESS -> 29-12-2024 21:11:46 : Route: receipes created
+INFO -> 29-12-2024 21:11:46 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:11:48 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:11:49 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 21:11:50 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:11:52 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:11:54 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:12:15 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:12:17 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 21:12:21 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 21:12:22 : Loading data from src\data\langs\fr.json
+SUCCESS -> 29-12-2024 22:51:22 : Route: home created
+SUCCESS -> 29-12-2024 22:51:54 : Route: home created
+INFO -> 29-12-2024 22:51:54 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 22:51:58 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 22:51:59 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 22:51:59 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 22:52:00 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 22:52:00 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:22:21 : Route: home created
+INFO -> 29-12-2024 23:22:21 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:22:38 : Route: home created
+INFO -> 29-12-2024 23:22:38 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:27:03 : Route: home created
+INFO -> 29-12-2024 23:27:03 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:27:14 : Route: home created
+INFO -> 29-12-2024 23:27:14 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:27:46 : Route: home created
+INFO -> 29-12-2024 23:27:46 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:27:58 : Route: home created
+INFO -> 29-12-2024 23:27:58 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:28:57 : Route: home created
+INFO -> 29-12-2024 23:28:57 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:30:58 : Route: home created
+INFO -> 29-12-2024 23:30:58 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:32:21 : Route: home created
+INFO -> 29-12-2024 23:32:21 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:33:02 : Route: home created
+INFO -> 29-12-2024 23:33:02 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 23:33:06 : Loading data from src\data\langs\en.json
+INFO -> 29-12-2024 23:33:07 : Loading data from src\data\langs\fr.json
+INFO -> 29-12-2024 23:33:08 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:37:28 : Route: home created
+INFO -> 29-12-2024 23:37:28 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:37:40 : Route: home created
+SUCCESS -> 29-12-2024 23:38:02 : Route: home created
+INFO -> 29-12-2024 23:38:02 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:38:12 : Route: home created
+INFO -> 29-12-2024 23:38:12 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:38:19 : Route: home created
+INFO -> 29-12-2024 23:38:19 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:38:26 : Route: home created
+INFO -> 29-12-2024 23:38:26 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:38:32 : Route: home created
+INFO -> 29-12-2024 23:38:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:38:59 : Route: home created
+SUCCESS -> 29-12-2024 23:39:26 : Route: home created
+INFO -> 29-12-2024 23:39:26 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:40:36 : Route: home created
+INFO -> 29-12-2024 23:40:37 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:41:32 : Route: home created
+INFO -> 29-12-2024 23:41:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:41:37 : Route: home created
+INFO -> 29-12-2024 23:41:37 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:41:47 : Route: home created
+SUCCESS -> 29-12-2024 23:41:50 : Route: home created
+INFO -> 29-12-2024 23:41:50 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:41:59 : Route: home created
+INFO -> 29-12-2024 23:41:59 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:42:10 : Route: home created
+INFO -> 29-12-2024 23:42:10 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:42:36 : Route: home created
+INFO -> 29-12-2024 23:42:36 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:42:41 : Route: home created
+INFO -> 29-12-2024 23:42:41 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:44:02 : Route: home created
+INFO -> 29-12-2024 23:44:02 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:45:25 : Route: home created
+INFO -> 29-12-2024 23:45:25 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:45:38 : Route: home created
+SUCCESS -> 29-12-2024 23:46:32 : Route: home created
+INFO -> 29-12-2024 23:46:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:46:55 : Route: home created
+INFO -> 29-12-2024 23:46:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:47:37 : Route: home created
+INFO -> 29-12-2024 23:47:37 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:47:43 : Route: home created
+INFO -> 29-12-2024 23:47:43 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:53:52 : Route: home created
+INFO -> 29-12-2024 23:53:52 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:54:55 : Route: home created
+INFO -> 29-12-2024 23:54:55 : Loading data from src/data/themes/dark.json
+INFO -> 29-12-2024 23:54:55 : Loading data from src/data/themes/white.json
+SUCCESS -> 29-12-2024 23:55:53 : Route: home created
+INFO -> 29-12-2024 23:55:53 : Loading data from src/data/themes/dark.json
+INFO -> 29-12-2024 23:55:53 : Loading data from src/data/themes/white.json
+SUCCESS -> 29-12-2024 23:56:22 : Route: home created
+INFO -> 29-12-2024 23:56:22 : Loading data from src/data/themes/dark.json
+INFO -> 29-12-2024 23:56:22 : Loading data from src/data/themes/white.json
+INFO -> 29-12-2024 23:56:22 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:56:32 : Route: home created
+INFO -> 29-12-2024 23:56:32 : Loading data from src/data/themes/dark.json
+INFO -> 29-12-2024 23:56:32 : Loading data from src/data/themes/white.json
+INFO -> 29-12-2024 23:56:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:59:29 : Route: home created
+INFO -> 29-12-2024 23:59:29 : Loading data from src/data/themes/dark.json
+INFO -> 29-12-2024 23:59:29 : Loading data from src/data/themes/white.json
+INFO -> 29-12-2024 23:59:29 : Loading data from src\data\langs\en.json
+SUCCESS -> 29-12-2024 23:59:54 : Route: home created
+INFO -> 29-12-2024 23:59:54 : Loading data from src/data/themes/dark.json
+INFO -> 29-12-2024 23:59:54 : Loading data from src/data/themes/white.json
+INFO -> 29-12-2024 23:59:54 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:01:59 : Route: home created
+INFO -> 30-12-2024 00:01:59 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:01:59 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:01:59 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:03:12 : Route: home created
+INFO -> 30-12-2024 00:03:12 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:03:12 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:03:12 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:03:19 : Route: home created
+INFO -> 30-12-2024 00:03:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:03:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:03:19 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:03:41 : Route: home created
+INFO -> 30-12-2024 00:03:41 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:03:41 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:03:41 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:03:56 : Route: home created
+INFO -> 30-12-2024 00:03:56 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:03:56 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:03:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:04:02 : Route: home created
+INFO -> 30-12-2024 00:04:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:04:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:04:02 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:04:09 : Route: home created
+INFO -> 30-12-2024 00:04:09 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:04:09 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:04:09 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:09:56 : Route: home created
+INFO -> 30-12-2024 00:09:56 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:09:56 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:09:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:11:01 : Route: home created
+SUCCESS -> 30-12-2024 00:11:09 : Route: home created
+INFO -> 30-12-2024 00:11:10 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:11:10 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:11:10 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:11:19 : Route: home created
+INFO -> 30-12-2024 00:11:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:11:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:11:19 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:12:01 : Route: home created
+INFO -> 30-12-2024 00:12:01 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:12:01 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:12:01 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:12:10 : Route: home created
+INFO -> 30-12-2024 00:12:10 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:12:10 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:12:10 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:12:18 : Route: home created
+INFO -> 30-12-2024 00:12:18 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:12:18 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:12:18 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:13:04 : Route: home created
+INFO -> 30-12-2024 00:13:05 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:13:05 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:13:05 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:13:11 : Route: home created
+INFO -> 30-12-2024 00:13:11 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:13:11 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:13:11 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:13:20 : Route: home created
+INFO -> 30-12-2024 00:13:20 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:13:20 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:13:20 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:14:27 : Route: home created
+INFO -> 30-12-2024 00:14:27 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:14:27 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:14:27 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:14:37 : Route: home created
+INFO -> 30-12-2024 00:14:37 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:14:37 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:14:37 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:16:48 : Route: home created
+INFO -> 30-12-2024 00:16:48 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:16:48 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:16:48 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:17:30 : Route: home created
+INFO -> 30-12-2024 00:17:30 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:17:30 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:17:30 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:18:06 : Route: home created
+INFO -> 30-12-2024 00:18:06 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:18:06 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:18:06 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:19:23 : Route: home created
+INFO -> 30-12-2024 00:19:23 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:19:23 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:19:23 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:19:46 : Route: home created
+INFO -> 30-12-2024 00:19:46 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:19:46 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:19:46 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:20:08 : Route: home created
+INFO -> 30-12-2024 00:20:08 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:20:08 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:20:08 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:20:32 : Route: home created
+INFO -> 30-12-2024 00:20:32 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:20:32 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:20:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:20:43 : Route: home created
+INFO -> 30-12-2024 00:20:43 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:20:43 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:20:43 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:20:51 : Route: home created
+INFO -> 30-12-2024 00:20:51 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:20:51 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:20:51 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:21:10 : Route: home created
+INFO -> 30-12-2024 00:21:10 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:21:10 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:21:10 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:21:20 : Route: home created
+INFO -> 30-12-2024 00:21:20 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:21:20 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:21:20 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:21:31 : Route: home created
+INFO -> 30-12-2024 00:21:32 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:21:32 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:21:32 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:21:42 : Route: home created
+INFO -> 30-12-2024 00:21:42 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:21:42 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:21:42 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:21:51 : Route: home created
+INFO -> 30-12-2024 00:21:51 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:21:51 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:21:51 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:23:01 : Route: home created
+INFO -> 30-12-2024 00:23:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:23:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:23:02 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:23:11 : Route: home created
+INFO -> 30-12-2024 00:23:11 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:23:11 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:23:11 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:23:30 : Route: home created
+INFO -> 30-12-2024 00:23:30 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:23:30 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:23:30 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:23:42 : Route: home created
+INFO -> 30-12-2024 00:23:42 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:23:42 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:23:42 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:24:05 : Route: home created
+INFO -> 30-12-2024 00:24:05 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:24:05 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:24:05 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:26:09 : Route: home created
+INFO -> 30-12-2024 00:26:09 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:26:09 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:26:09 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:27:31 : Route: home created
+INFO -> 30-12-2024 00:27:31 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:27:31 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:27:31 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:27:37 : Route: home created
+INFO -> 30-12-2024 00:27:37 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:27:37 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:27:37 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:28:09 : Route: home created
+INFO -> 30-12-2024 00:28:09 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:28:09 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:28:09 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:28:14 : Route: home created
+INFO -> 30-12-2024 00:28:14 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:28:14 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:28:14 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:28:19 : Route: home created
+INFO -> 30-12-2024 00:28:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:28:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:28:19 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:29:27 : Route: home created
+INFO -> 30-12-2024 00:29:27 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:29:27 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 00:31:04 : Route: home created
+INFO -> 30-12-2024 00:31:04 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:31:04 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 00:32:33 : Route: home created
+INFO -> 30-12-2024 00:32:33 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:32:33 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:32:33 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:32:53 : Route: home created
+INFO -> 30-12-2024 00:32:53 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:32:53 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:32:53 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:33:22 : Route: home created
+INFO -> 30-12-2024 00:33:22 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:33:22 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 00:34:21 : Route: home created
+INFO -> 30-12-2024 00:34:21 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:34:21 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:34:21 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:34:54 : Route: home created
+INFO -> 30-12-2024 00:34:54 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:34:54 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:34:54 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:35:26 : Route: home created
+INFO -> 30-12-2024 00:35:26 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:35:26 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:35:26 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:35:43 : Route: home created
+INFO -> 30-12-2024 00:35:43 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:35:43 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:35:44 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:35:51 : Route: home created
+INFO -> 30-12-2024 00:35:51 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:35:51 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:35:51 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 00:35:54 : Loading data from src\data\langs\fr.json
+INFO -> 30-12-2024 00:35:55 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 00:37:42 : Route: home created
+INFO -> 30-12-2024 00:37:42 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 00:37:42 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 00:37:42 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 00:37:50 : Loading data from src\data\langs\fr.json
+INFO -> 30-12-2024 00:37:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 00:37:51 : Loading data from src\data\langs\fr.json
+SUCCESS -> 30-12-2024 05:03:00 : Route: home created
+INFO -> 30-12-2024 05:03:01 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:03:01 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:03:01 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:13:19 : Route: home created
+SUCCESS -> 30-12-2024 05:13:19 : Route: receipes created
+INFO -> 30-12-2024 05:13:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:13:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:13:19 : Loading data from src\data\langs\en.json
+ERROR -> 30-12-2024 05:13:20 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:21 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:21 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:21 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:21 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:21 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:22 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:22 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:22 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:25 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:25 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:25 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:25 : Route: recipes does not exist
+SUCCESS -> 30-12-2024 05:13:37 : Route: home created
+SUCCESS -> 30-12-2024 05:13:37 : Route: receipes created
+INFO -> 30-12-2024 05:13:37 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:13:37 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:13:37 : Loading data from src\data\langs\en.json
+ERROR -> 30-12-2024 05:13:38 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:38 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:38 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:38 : Route: recipes does not exist
+ERROR -> 30-12-2024 05:13:38 : Route: recipes does not exist
+SUCCESS -> 30-12-2024 05:14:56 : Route: home created
+SUCCESS -> 30-12-2024 05:14:56 : Route: receipes created
+INFO -> 30-12-2024 05:14:56 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:14:56 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:14:56 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:14:58 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:14:58 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:15:39 : Route: home created
+SUCCESS -> 30-12-2024 05:15:39 : Route: receipes created
+INFO -> 30-12-2024 05:15:39 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:15:39 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:15:39 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:15:39 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:15:39 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:18:07 : Route: home created
+SUCCESS -> 30-12-2024 05:18:07 : Route: receipes created
+INFO -> 30-12-2024 05:18:07 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:18:07 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:18:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:18:09 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:18:09 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:18:48 : Route: home created
+SUCCESS -> 30-12-2024 05:18:48 : Route: receipes created
+INFO -> 30-12-2024 05:18:48 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:18:48 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:18:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:18:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:18:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:19:02 : Route: home created
+SUCCESS -> 30-12-2024 05:19:02 : Route: receipes created
+INFO -> 30-12-2024 05:19:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:19:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:19:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:19:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:19:02 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:19:28 : Route: home created
+SUCCESS -> 30-12-2024 05:19:28 : Route: receipes created
+INFO -> 30-12-2024 05:19:28 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:19:28 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:19:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:19:29 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:19:29 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:20:03 : Route: home created
+SUCCESS -> 30-12-2024 05:20:03 : Route: receipes created
+INFO -> 30-12-2024 05:20:03 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:20:03 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:20:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:20:04 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:20:04 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:21:47 : Route: home created
+SUCCESS -> 30-12-2024 05:21:47 : Route: receipes created
+INFO -> 30-12-2024 05:21:47 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:21:47 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:21:47 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:21:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:21:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:22:17 : Route: home created
+SUCCESS -> 30-12-2024 05:22:17 : Route: receipes created
+INFO -> 30-12-2024 05:22:17 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:22:17 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:22:17 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:22:19 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:22:19 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:23:48 : Route: home created
+SUCCESS -> 30-12-2024 05:23:48 : Route: receipes created
+INFO -> 30-12-2024 05:23:48 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:23:48 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:23:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:23:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:23:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:24:00 : Route: home created
+SUCCESS -> 30-12-2024 05:24:00 : Route: receipes created
+INFO -> 30-12-2024 05:24:00 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:24:00 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:24:00 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:24:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:24:01 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:26:49 : Route: home created
+SUCCESS -> 30-12-2024 05:26:49 : Route: receipes created
+INFO -> 30-12-2024 05:26:49 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:26:49 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:26:49 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:26:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:26:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:29:06 : Route: home created
+SUCCESS -> 30-12-2024 05:29:06 : Route: receipes created
+INFO -> 30-12-2024 05:29:07 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:29:07 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:29:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:29:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:29:07 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:30:04 : Route: home created
+SUCCESS -> 30-12-2024 05:30:04 : Route: receipes created
+INFO -> 30-12-2024 05:30:04 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:30:04 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:30:04 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:30:05 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:30:05 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:31:06 : Route: home created
+SUCCESS -> 30-12-2024 05:31:06 : Route: receipes created
+INFO -> 30-12-2024 05:31:06 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:31:06 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:31:06 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:31:06 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:31:06 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:31:52 : Route: home created
+SUCCESS -> 30-12-2024 05:31:52 : Route: receipes created
+INFO -> 30-12-2024 05:31:53 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:31:53 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:31:53 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:31:54 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:31:54 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:33:31 : Route: home created
+SUCCESS -> 30-12-2024 05:33:31 : Route: receipes created
+INFO -> 30-12-2024 05:33:31 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:33:31 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:33:31 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:33:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:33:33 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:33:54 : Route: home created
+SUCCESS -> 30-12-2024 05:33:54 : Route: receipes created
+INFO -> 30-12-2024 05:33:54 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:33:54 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:33:54 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:33:55 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:33:55 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:34:53 : Route: home created
+SUCCESS -> 30-12-2024 05:34:53 : Route: receipes created
+INFO -> 30-12-2024 05:34:53 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:34:53 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:34:53 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:34:54 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:34:54 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:35:25 : Route: home created
+SUCCESS -> 30-12-2024 05:35:25 : Route: receipes created
+INFO -> 30-12-2024 05:35:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:35:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:35:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:35:26 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:35:26 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:35:40 : Route: home created
+SUCCESS -> 30-12-2024 05:35:40 : Route: receipes created
+INFO -> 30-12-2024 05:35:40 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:35:40 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:35:40 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:35:41 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:35:41 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:36:37 : Route: home created
+SUCCESS -> 30-12-2024 05:36:37 : Route: receipes created
+INFO -> 30-12-2024 05:36:37 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:36:37 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:36:37 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:36:38 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:36:38 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:42:08 : Route: home created
+SUCCESS -> 30-12-2024 05:42:08 : Route: receipes created
+INFO -> 30-12-2024 05:42:08 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:42:08 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:42:08 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:42:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:42:28 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:42:57 : Route: home created
+SUCCESS -> 30-12-2024 05:42:57 : Route: receipes created
+INFO -> 30-12-2024 05:42:58 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:42:58 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 05:43:09 : Route: home created
+SUCCESS -> 30-12-2024 05:43:09 : Route: receipes created
+INFO -> 30-12-2024 05:43:10 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:43:10 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 05:43:17 : Route: home created
+SUCCESS -> 30-12-2024 05:43:17 : Route: receipes created
+INFO -> 30-12-2024 05:43:17 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:43:17 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 05:43:25 : Route: home created
+SUCCESS -> 30-12-2024 05:43:25 : Route: receipes created
+INFO -> 30-12-2024 05:43:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:43:25 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 05:44:25 : Route: home created
+SUCCESS -> 30-12-2024 05:44:25 : Route: receipes created
+INFO -> 30-12-2024 05:44:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:44:25 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 05:44:36 : Route: home created
+SUCCESS -> 30-12-2024 05:44:36 : Route: receipes created
+INFO -> 30-12-2024 05:44:36 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:44:36 : Loading data from src/data/themes/white.json
+SUCCESS -> 30-12-2024 05:45:25 : Route: home created
+SUCCESS -> 30-12-2024 05:45:25 : Route: receipes created
+INFO -> 30-12-2024 05:45:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:45:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:45:25 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:46:06 : Route: home created
+SUCCESS -> 30-12-2024 05:46:06 : Route: receipes created
+INFO -> 30-12-2024 05:46:06 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:46:06 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:46:06 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:46:59 : Route: home created
+SUCCESS -> 30-12-2024 05:46:59 : Route: receipes created
+INFO -> 30-12-2024 05:46:59 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:46:59 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:46:59 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:47:21 : Route: home created
+SUCCESS -> 30-12-2024 05:47:21 : Route: receipes created
+INFO -> 30-12-2024 05:47:21 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:47:21 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:47:21 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:47:23 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:47:23 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:47:33 : Route: home created
+SUCCESS -> 30-12-2024 05:47:33 : Route: receipes created
+INFO -> 30-12-2024 05:47:33 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:47:33 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:47:33 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:47:42 : Route: home created
+SUCCESS -> 30-12-2024 05:47:42 : Route: receipes created
+INFO -> 30-12-2024 05:47:42 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:47:42 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:47:43 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:47:56 : Route: home created
+SUCCESS -> 30-12-2024 05:47:56 : Route: receipes created
+INFO -> 30-12-2024 05:47:56 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:47:56 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:47:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:48:03 : Route: home created
+SUCCESS -> 30-12-2024 05:48:03 : Route: receipes created
+INFO -> 30-12-2024 05:48:03 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:48:03 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:48:03 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:48:07 : Route: home created
+SUCCESS -> 30-12-2024 05:48:07 : Route: receipes created
+INFO -> 30-12-2024 05:48:07 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:48:07 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:48:07 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:48:54 : Route: home created
+SUCCESS -> 30-12-2024 05:48:54 : Route: receipes created
+INFO -> 30-12-2024 05:48:54 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:48:54 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:48:54 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 05:49:24 : Route: home created
+SUCCESS -> 30-12-2024 05:49:24 : Route: receipes created
+INFO -> 30-12-2024 05:49:24 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:49:24 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:49:24 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:49:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:49:25 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 05:51:25 : Route: home created
+SUCCESS -> 30-12-2024 05:51:25 : Route: receipes created
+INFO -> 30-12-2024 05:51:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 05:51:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 05:51:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:51:26 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 05:51:26 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:20:43 : Route: home created
+SUCCESS -> 30-12-2024 07:20:43 : Route: receipes created
+INFO -> 30-12-2024 07:20:43 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:20:43 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:20:43 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:20:44 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:20:44 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:21:32 : Route: home created
+SUCCESS -> 30-12-2024 07:21:32 : Route: receipes created
+INFO -> 30-12-2024 07:21:32 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:21:32 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:21:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:21:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:21:33 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:21:39 : Route: home created
+SUCCESS -> 30-12-2024 07:21:39 : Route: receipes created
+INFO -> 30-12-2024 07:21:39 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:21:39 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:21:39 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:21:40 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:21:40 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:21:52 : Route: home created
+SUCCESS -> 30-12-2024 07:21:52 : Route: receipes created
+INFO -> 30-12-2024 07:21:52 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:21:52 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:21:52 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:21:52 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:21:52 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:22:39 : Route: home created
+SUCCESS -> 30-12-2024 07:22:39 : Route: receipes created
+INFO -> 30-12-2024 07:22:39 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:22:39 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:22:39 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:22:40 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:22:40 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:23:08 : Route: home created
+SUCCESS -> 30-12-2024 07:23:08 : Route: receipes created
+INFO -> 30-12-2024 07:23:08 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:23:08 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:23:08 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:23:09 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:23:09 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:34:21 : Route: home created
+SUCCESS -> 30-12-2024 07:34:21 : Route: receipes created
+INFO -> 30-12-2024 07:34:21 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:34:21 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:34:21 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:34:22 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:34:22 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:34:49 : Route: home created
+SUCCESS -> 30-12-2024 07:34:49 : Route: receipes created
+INFO -> 30-12-2024 07:34:49 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:34:49 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:34:49 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:34:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:34:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:36:01 : Route: home created
+SUCCESS -> 30-12-2024 07:36:01 : Route: receipes created
+INFO -> 30-12-2024 07:36:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:36:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:36:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:36:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:36:02 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:38:28 : Route: home created
+SUCCESS -> 30-12-2024 07:38:28 : Route: receipes created
+INFO -> 30-12-2024 07:38:28 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:38:28 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:38:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:38:29 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:38:29 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:39:25 : Route: home created
+SUCCESS -> 30-12-2024 07:39:25 : Route: receipes created
+INFO -> 30-12-2024 07:39:25 : Loading data from src/data/themes/dark.json
+SUCCESS -> 30-12-2024 07:39:37 : Route: home created
+SUCCESS -> 30-12-2024 07:39:37 : Route: receipes created
+INFO -> 30-12-2024 07:39:37 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:39:37 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:39:37 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:39:39 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:39:39 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:40:55 : Route: home created
+SUCCESS -> 30-12-2024 07:40:55 : Route: receipes created
+INFO -> 30-12-2024 07:40:55 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:40:55 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:40:55 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:40:56 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:40:56 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:41:20 : Route: home created
+SUCCESS -> 30-12-2024 07:41:20 : Route: receipes created
+INFO -> 30-12-2024 07:41:20 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:41:20 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:41:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:41:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:41:20 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:41:29 : Route: home created
+SUCCESS -> 30-12-2024 07:41:29 : Route: receipes created
+INFO -> 30-12-2024 07:41:29 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:41:29 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:41:29 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:41:30 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:41:30 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:41:47 : Route: home created
+SUCCESS -> 30-12-2024 07:41:47 : Route: receipes created
+INFO -> 30-12-2024 07:41:47 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:41:47 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:41:47 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:41:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:41:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:42:31 : Route: home created
+SUCCESS -> 30-12-2024 07:42:31 : Route: receipes created
+INFO -> 30-12-2024 07:42:31 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:42:31 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:42:31 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:42:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:42:32 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:43:48 : Route: home created
+SUCCESS -> 30-12-2024 07:43:48 : Route: receipes created
+INFO -> 30-12-2024 07:43:48 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:43:48 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:43:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:43:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:43:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:44:06 : Route: home created
+SUCCESS -> 30-12-2024 07:44:06 : Route: receipes created
+INFO -> 30-12-2024 07:44:06 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:44:06 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:44:06 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:44:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:44:07 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:45:12 : Route: home created
+SUCCESS -> 30-12-2024 07:45:12 : Route: receipes created
+INFO -> 30-12-2024 07:45:12 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:45:12 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:45:12 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:45:13 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:45:13 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:45:34 : Route: home created
+SUCCESS -> 30-12-2024 07:45:34 : Route: receipes created
+INFO -> 30-12-2024 07:45:34 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:45:34 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:45:34 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:45:35 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:45:35 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:50:39 : Route: home created
+SUCCESS -> 30-12-2024 07:50:39 : Route: receipes created
+INFO -> 30-12-2024 07:50:39 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:50:39 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:50:39 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:50:40 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:50:40 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:50:49 : Route: home created
+SUCCESS -> 30-12-2024 07:50:49 : Route: receipes created
+INFO -> 30-12-2024 07:50:49 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:50:49 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:50:49 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:50:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:50:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:51:00 : Route: home created
+SUCCESS -> 30-12-2024 07:51:00 : Route: receipes created
+INFO -> 30-12-2024 07:51:00 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:51:00 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:51:00 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:51:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:51:01 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:51:14 : Route: home created
+SUCCESS -> 30-12-2024 07:51:14 : Route: receipes created
+INFO -> 30-12-2024 07:51:14 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:51:14 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:51:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:51:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:51:14 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:52:16 : Route: home created
+SUCCESS -> 30-12-2024 07:52:16 : Route: receipes created
+INFO -> 30-12-2024 07:52:16 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:52:16 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:52:16 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:52:17 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:52:17 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:52:32 : Route: home created
+SUCCESS -> 30-12-2024 07:52:32 : Route: receipes created
+INFO -> 30-12-2024 07:52:32 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:52:32 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:52:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:52:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:52:32 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:53:18 : Route: home created
+SUCCESS -> 30-12-2024 07:53:18 : Route: receipes created
+INFO -> 30-12-2024 07:53:18 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:53:18 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:53:18 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:53:19 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:53:19 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:53:33 : Route: home created
+SUCCESS -> 30-12-2024 07:53:33 : Route: receipes created
+INFO -> 30-12-2024 07:53:33 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:53:33 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:53:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:53:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:53:33 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:53:51 : Route: home created
+SUCCESS -> 30-12-2024 07:53:51 : Route: receipes created
+INFO -> 30-12-2024 07:53:51 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:53:51 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:53:51 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:53:52 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:53:52 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:54:45 : Route: home created
+SUCCESS -> 30-12-2024 07:54:45 : Route: receipes created
+INFO -> 30-12-2024 07:54:45 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:54:45 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:54:45 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:54:46 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:54:46 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:56:16 : Route: home created
+SUCCESS -> 30-12-2024 07:56:16 : Route: receipes created
+INFO -> 30-12-2024 07:56:16 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:56:16 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:56:16 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:17 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:17 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:56:23 : Route: home created
+SUCCESS -> 30-12-2024 07:56:23 : Route: receipes created
+INFO -> 30-12-2024 07:56:23 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:56:23 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:56:23 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:24 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:24 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:56:50 : Route: home created
+SUCCESS -> 30-12-2024 07:56:50 : Route: receipes created
+INFO -> 30-12-2024 07:56:50 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:56:50 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:56:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:51 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:51 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:56:57 : Route: home created
+SUCCESS -> 30-12-2024 07:56:57 : Route: receipes created
+INFO -> 30-12-2024 07:56:57 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:56:57 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:56:57 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:58 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:56:58 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:57:36 : Route: home created
+SUCCESS -> 30-12-2024 07:57:36 : Route: receipes created
+INFO -> 30-12-2024 07:57:36 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:57:36 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:57:36 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:57:37 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:57:37 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:58:10 : Route: home created
+SUCCESS -> 30-12-2024 07:58:10 : Route: receipes created
+INFO -> 30-12-2024 07:58:10 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:58:10 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:58:10 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:58:11 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:58:11 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 07:58:23 : Route: home created
+SUCCESS -> 30-12-2024 07:58:23 : Route: receipes created
+INFO -> 30-12-2024 07:58:23 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 07:58:23 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 07:58:23 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:58:24 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 07:58:24 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:00:56 : Route: home created
+SUCCESS -> 30-12-2024 08:00:56 : Route: receipes created
+INFO -> 30-12-2024 08:00:56 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:00:56 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:00:56 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:00:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 08:01:55 : Route: home created
+SUCCESS -> 30-12-2024 08:01:55 : Route: receipes created
+INFO -> 30-12-2024 08:01:55 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:01:55 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:01:55 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:01:56 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 08:02:41 : Route: home created
+SUCCESS -> 30-12-2024 08:02:41 : Route: receipes created
+INFO -> 30-12-2024 08:02:41 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:02:41 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:02:41 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:02:42 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:02:42 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:03:25 : Route: home created
+SUCCESS -> 30-12-2024 08:03:25 : Route: receipes created
+INFO -> 30-12-2024 08:03:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:03:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:03:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:03:26 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:03:26 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:03:59 : Route: home created
+SUCCESS -> 30-12-2024 08:03:59 : Route: receipes created
+INFO -> 30-12-2024 08:03:59 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:03:59 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:03:59 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:04:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:04:01 : Loading data from src/data/receipes.json
+INFO -> 30-12-2024 08:04:42 : Loading data from src\data\langs\fr.json
+INFO -> 30-12-2024 08:04:42 : Loading data from src/data/receipes.json
+INFO -> 30-12-2024 08:04:43 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:04:43 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:05:58 : Route: home created
+SUCCESS -> 30-12-2024 08:05:58 : Route: receipes created
+INFO -> 30-12-2024 08:05:58 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:05:58 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:05:58 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:05:59 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:05:59 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:06:12 : Route: home created
+SUCCESS -> 30-12-2024 08:06:12 : Route: receipes created
+INFO -> 30-12-2024 08:06:12 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:06:12 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:06:12 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:06:13 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:06:13 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:07:07 : Route: home created
+SUCCESS -> 30-12-2024 08:07:07 : Route: receipes created
+INFO -> 30-12-2024 08:07:07 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:07:07 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:07:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:08 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:08 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:07:13 : Route: home created
+SUCCESS -> 30-12-2024 08:07:13 : Route: receipes created
+INFO -> 30-12-2024 08:07:13 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:07:13 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:07:13 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:13 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:13 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:07:27 : Route: home created
+SUCCESS -> 30-12-2024 08:07:27 : Route: receipes created
+INFO -> 30-12-2024 08:07:27 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:07:27 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:07:27 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:28 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:07:36 : Route: home created
+SUCCESS -> 30-12-2024 08:07:36 : Route: receipes created
+INFO -> 30-12-2024 08:07:37 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:07:37 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:07:37 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:37 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:07:37 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:08:01 : Route: home created
+SUCCESS -> 30-12-2024 08:08:01 : Route: receipes created
+INFO -> 30-12-2024 08:08:01 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:08:01 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:08:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:08:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:08:01 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:09:20 : Route: home created
+SUCCESS -> 30-12-2024 08:09:20 : Route: receipes created
+INFO -> 30-12-2024 08:09:20 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:09:20 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:09:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:09:21 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:09:21 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:10:06 : Route: home created
+SUCCESS -> 30-12-2024 08:10:06 : Route: receipes created
+INFO -> 30-12-2024 08:10:06 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:10:06 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:10:06 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:10:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:10:07 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:10:33 : Route: home created
+SUCCESS -> 30-12-2024 08:10:33 : Route: receipes created
+INFO -> 30-12-2024 08:10:33 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:10:33 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:10:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:10:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:10:33 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:11:14 : Route: home created
+SUCCESS -> 30-12-2024 08:11:14 : Route: receipes created
+INFO -> 30-12-2024 08:11:14 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:11:14 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:11:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:11:15 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:11:15 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:11:50 : Route: home created
+SUCCESS -> 30-12-2024 08:11:50 : Route: receipes created
+INFO -> 30-12-2024 08:11:50 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:11:50 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:11:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:11:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:11:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:12:04 : Route: home created
+SUCCESS -> 30-12-2024 08:12:04 : Route: receipes created
+INFO -> 30-12-2024 08:12:04 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:12:04 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:12:04 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:12:05 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:12:05 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:12:47 : Route: home created
+SUCCESS -> 30-12-2024 08:12:47 : Route: receipes created
+INFO -> 30-12-2024 08:12:47 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:12:47 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:12:47 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:12:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:12:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:13:52 : Route: home created
+SUCCESS -> 30-12-2024 08:13:52 : Route: receipes created
+INFO -> 30-12-2024 08:13:52 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:13:52 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:13:52 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:13:53 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:13:53 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:14:02 : Route: home created
+SUCCESS -> 30-12-2024 08:14:02 : Route: receipes created
+INFO -> 30-12-2024 08:14:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:14:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:14:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:14:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:14:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:14:19 : Route: home created
+SUCCESS -> 30-12-2024 08:14:19 : Route: receipes created
+INFO -> 30-12-2024 08:14:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:14:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:14:19 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:14:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:14:20 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:15:21 : Route: home created
+SUCCESS -> 30-12-2024 08:15:21 : Route: receipes created
+INFO -> 30-12-2024 08:15:22 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:15:22 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:15:22 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:15:22 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:15:22 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:16:19 : Route: home created
+SUCCESS -> 30-12-2024 08:16:19 : Route: receipes created
+INFO -> 30-12-2024 08:16:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:16:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:16:19 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:16:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:16:20 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:16:46 : Route: home created
+SUCCESS -> 30-12-2024 08:16:46 : Route: receipes created
+INFO -> 30-12-2024 08:16:46 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:16:46 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:16:46 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:16:46 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:16:46 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:17:03 : Route: home created
+SUCCESS -> 30-12-2024 08:17:03 : Route: receipes created
+INFO -> 30-12-2024 08:17:03 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:17:03 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:17:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:04 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:04 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:17:12 : Route: home created
+SUCCESS -> 30-12-2024 08:17:12 : Route: receipes created
+INFO -> 30-12-2024 08:17:12 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:17:12 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:17:12 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:12 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:12 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:17:29 : Route: home created
+SUCCESS -> 30-12-2024 08:17:29 : Route: receipes created
+INFO -> 30-12-2024 08:17:29 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:17:29 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:17:29 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:30 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:30 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:17:35 : Route: home created
+SUCCESS -> 30-12-2024 08:17:35 : Route: receipes created
+INFO -> 30-12-2024 08:17:35 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:17:35 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:17:35 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:35 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:35 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:17:47 : Route: home created
+SUCCESS -> 30-12-2024 08:17:47 : Route: receipes created
+INFO -> 30-12-2024 08:17:47 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:17:47 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:17:47 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:17:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:18:02 : Route: home created
+SUCCESS -> 30-12-2024 08:18:02 : Route: receipes created
+INFO -> 30-12-2024 08:18:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:18:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:18:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:18:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:18:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:18:25 : Route: home created
+SUCCESS -> 30-12-2024 08:18:25 : Route: receipes created
+INFO -> 30-12-2024 08:18:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:18:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:18:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:18:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:18:25 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:18:35 : Route: home created
+SUCCESS -> 30-12-2024 08:18:35 : Route: receipes created
+INFO -> 30-12-2024 08:18:35 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:18:35 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:18:35 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:18:36 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:18:36 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:20:25 : Route: home created
+SUCCESS -> 30-12-2024 08:20:25 : Route: receipes created
+INFO -> 30-12-2024 08:20:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:20:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:20:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:20:26 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 08:20:32 : Route: home created
+SUCCESS -> 30-12-2024 08:20:32 : Route: receipes created
+INFO -> 30-12-2024 08:20:32 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:20:32 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:20:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:20:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:20:32 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:21:01 : Route: home created
+SUCCESS -> 30-12-2024 08:21:01 : Route: receipes created
+INFO -> 30-12-2024 08:21:01 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:21:01 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:21:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:21:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:21:02 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:22:03 : Route: home created
+SUCCESS -> 30-12-2024 08:22:03 : Route: receipes created
+INFO -> 30-12-2024 08:22:03 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:22:03 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:22:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:22:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:22:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:23:23 : Route: home created
+SUCCESS -> 30-12-2024 08:23:23 : Route: receipes created
+INFO -> 30-12-2024 08:23:23 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:23:23 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:23:23 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:23:24 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:23:24 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:23:56 : Route: home created
+SUCCESS -> 30-12-2024 08:23:56 : Route: receipes created
+INFO -> 30-12-2024 08:23:56 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:23:56 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:23:56 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:23:56 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:23:56 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:24:14 : Route: home created
+SUCCESS -> 30-12-2024 08:24:14 : Route: receipes created
+INFO -> 30-12-2024 08:24:14 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:24:14 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:24:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:24:15 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:24:15 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:27:23 : Route: home created
+SUCCESS -> 30-12-2024 08:27:23 : Route: receipes created
+INFO -> 30-12-2024 08:27:23 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:27:23 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:27:23 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:27:24 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:27:24 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:29:22 : Route: home created
+SUCCESS -> 30-12-2024 08:29:22 : Route: receipes created
+INFO -> 30-12-2024 08:29:22 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:29:22 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:29:22 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:29:23 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:29:23 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:30:14 : Route: home created
+SUCCESS -> 30-12-2024 08:30:14 : Route: receipes created
+INFO -> 30-12-2024 08:30:14 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:30:14 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:30:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:15 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:15 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:30:27 : Route: home created
+SUCCESS -> 30-12-2024 08:30:27 : Route: receipes created
+INFO -> 30-12-2024 08:30:27 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:30:27 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:30:27 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:28 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:30:44 : Route: home created
+SUCCESS -> 30-12-2024 08:30:44 : Route: receipes created
+INFO -> 30-12-2024 08:30:44 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:30:44 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:30:44 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:45 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:45 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:30:51 : Route: home created
+SUCCESS -> 30-12-2024 08:30:51 : Route: receipes created
+INFO -> 30-12-2024 08:30:51 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:30:51 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:30:51 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:52 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:30:52 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:32:51 : Route: home created
+SUCCESS -> 30-12-2024 08:32:51 : Route: receipes created
+INFO -> 30-12-2024 08:32:51 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:32:51 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:32:51 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:32:52 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:32:52 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:32:57 : Route: home created
+SUCCESS -> 30-12-2024 08:32:57 : Route: receipes created
+INFO -> 30-12-2024 08:32:57 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:32:57 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:32:57 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:32:57 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:32:57 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:33:07 : Route: home created
+SUCCESS -> 30-12-2024 08:33:07 : Route: receipes created
+INFO -> 30-12-2024 08:33:07 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:33:07 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:33:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:33:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:33:07 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:34:05 : Route: home created
+SUCCESS -> 30-12-2024 08:34:05 : Route: receipes created
+INFO -> 30-12-2024 08:34:05 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:34:05 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:34:05 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:34:06 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:34:06 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:34:15 : Route: home created
+SUCCESS -> 30-12-2024 08:34:15 : Route: receipes created
+INFO -> 30-12-2024 08:34:15 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:34:15 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:34:15 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:34:16 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:34:16 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:34:41 : Route: home created
+SUCCESS -> 30-12-2024 08:34:41 : Route: receipes created
+INFO -> 30-12-2024 08:34:41 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:34:41 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:34:41 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:34:42 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:34:42 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:35:04 : Route: home created
+SUCCESS -> 30-12-2024 08:35:04 : Route: receipes created
+INFO -> 30-12-2024 08:35:04 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:35:04 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:35:04 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:35:05 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:35:05 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:35:13 : Route: home created
+SUCCESS -> 30-12-2024 08:35:13 : Route: receipes created
+INFO -> 30-12-2024 08:35:13 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:35:13 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:35:13 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:35:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:35:14 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:35:45 : Route: home created
+SUCCESS -> 30-12-2024 08:35:45 : Route: receipes created
+INFO -> 30-12-2024 08:35:45 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:35:45 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:35:45 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:35:46 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:35:46 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:36:03 : Route: home created
+SUCCESS -> 30-12-2024 08:36:03 : Route: receipes created
+INFO -> 30-12-2024 08:36:03 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:36:03 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:36:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:36:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:36:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:36:41 : Route: home created
+SUCCESS -> 30-12-2024 08:36:41 : Route: receipes created
+INFO -> 30-12-2024 08:36:41 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:36:42 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:36:42 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:36:42 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:36:42 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:36:47 : Route: home created
+SUCCESS -> 30-12-2024 08:36:47 : Route: receipes created
+INFO -> 30-12-2024 08:36:47 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:36:47 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:36:47 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:36:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:36:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:37:16 : Route: home created
+SUCCESS -> 30-12-2024 08:37:16 : Route: receipes created
+INFO -> 30-12-2024 08:37:16 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:37:16 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:37:16 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:37:16 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:37:16 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:40:25 : Route: home created
+SUCCESS -> 30-12-2024 08:40:25 : Route: receipes created
+INFO -> 30-12-2024 08:40:25 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:40:25 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:40:25 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:40:26 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:40:26 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:41:21 : Route: home created
+SUCCESS -> 30-12-2024 08:41:21 : Route: receipes created
+INFO -> 30-12-2024 08:41:21 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:41:21 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:41:21 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:41:21 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:41:21 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:41:27 : Route: home created
+SUCCESS -> 30-12-2024 08:41:27 : Route: receipes created
+INFO -> 30-12-2024 08:41:27 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:41:27 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:41:27 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:41:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:41:28 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:43:54 : Route: home created
+SUCCESS -> 30-12-2024 08:43:54 : Route: receipes created
+INFO -> 30-12-2024 08:43:54 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:43:54 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:43:54 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:43:54 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:43:54 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:44:07 : Route: home created
+SUCCESS -> 30-12-2024 08:44:07 : Route: receipes created
+INFO -> 30-12-2024 08:44:07 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:44:07 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:44:07 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:44:08 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:44:08 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:44:28 : Route: home created
+SUCCESS -> 30-12-2024 08:44:28 : Route: receipes created
+INFO -> 30-12-2024 08:44:28 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:44:28 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:44:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:44:29 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:44:29 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:44:48 : Route: home created
+SUCCESS -> 30-12-2024 08:44:48 : Route: receipes created
+INFO -> 30-12-2024 08:44:48 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:44:48 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:44:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:44:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:44:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:45:03 : Route: home created
+SUCCESS -> 30-12-2024 08:45:03 : Route: receipes created
+INFO -> 30-12-2024 08:45:03 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:45:03 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:45:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:45:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:45:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:45:16 : Route: home created
+SUCCESS -> 30-12-2024 08:45:16 : Route: receipes created
+INFO -> 30-12-2024 08:45:16 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:45:16 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:45:16 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:45:17 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:45:17 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:45:41 : Route: home created
+SUCCESS -> 30-12-2024 08:45:41 : Route: receipes created
+INFO -> 30-12-2024 08:45:41 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:45:41 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:45:41 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:45:42 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:45:42 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:46:32 : Route: home created
+SUCCESS -> 30-12-2024 08:46:32 : Route: receipes created
+INFO -> 30-12-2024 08:46:32 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:46:32 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:46:32 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:46:33 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:46:33 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:47:02 : Route: home created
+SUCCESS -> 30-12-2024 08:47:02 : Route: receipes created
+INFO -> 30-12-2024 08:47:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:47:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:47:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:47:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:47:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:48:19 : Route: home created
+SUCCESS -> 30-12-2024 08:48:19 : Route: receipes created
+INFO -> 30-12-2024 08:48:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:48:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:48:19 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:48:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:48:20 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:48:49 : Route: home created
+SUCCESS -> 30-12-2024 08:48:49 : Route: receipes created
+INFO -> 30-12-2024 08:48:49 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:48:49 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:48:49 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:48:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:48:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:53:49 : Route: home created
+SUCCESS -> 30-12-2024 08:53:49 : Route: receipes created
+INFO -> 30-12-2024 08:53:49 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:53:49 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:53:49 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:53:50 : Loading data from src\data\langs\en.json
+SUCCESS -> 30-12-2024 08:54:04 : Route: home created
+SUCCESS -> 30-12-2024 08:54:04 : Route: receipes created
+INFO -> 30-12-2024 08:54:04 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:54:04 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:54:04 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:54:05 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:54:05 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:54:29 : Route: home created
+SUCCESS -> 30-12-2024 08:54:29 : Route: receipes created
+INFO -> 30-12-2024 08:54:29 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:54:29 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:54:29 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:54:30 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:54:30 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 08:58:49 : Route: home created
+SUCCESS -> 30-12-2024 08:58:49 : Route: receipes created
+INFO -> 30-12-2024 08:58:50 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 08:58:50 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 08:58:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:58:50 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 08:58:50 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:00:02 : Route: home created
+SUCCESS -> 30-12-2024 09:00:02 : Route: receipes created
+INFO -> 30-12-2024 09:00:02 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:00:02 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:00:02 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:00:03 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:00:03 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:01:13 : Route: home created
+SUCCESS -> 30-12-2024 09:01:13 : Route: receipes created
+INFO -> 30-12-2024 09:01:13 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:01:13 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:01:13 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:01:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:01:14 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:02:27 : Route: home created
+SUCCESS -> 30-12-2024 09:02:27 : Route: receipes created
+INFO -> 30-12-2024 09:02:27 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:02:27 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:02:27 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:02:28 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:02:28 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:02:46 : Route: home created
+SUCCESS -> 30-12-2024 09:02:46 : Route: receipes created
+INFO -> 30-12-2024 09:02:46 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:02:46 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:02:46 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:02:46 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:02:46 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:04:00 : Route: home created
+SUCCESS -> 30-12-2024 09:04:00 : Route: receipes created
+INFO -> 30-12-2024 09:04:00 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:04:00 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:04:00 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:04:01 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:04:01 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:07:14 : Route: home created
+SUCCESS -> 30-12-2024 09:07:14 : Route: receipes created
+INFO -> 30-12-2024 09:07:14 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:07:14 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:07:14 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:07:15 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:07:15 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:11:19 : Route: home created
+SUCCESS -> 30-12-2024 09:11:19 : Route: receipes created
+INFO -> 30-12-2024 09:11:19 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:11:19 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:11:19 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:11:20 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:11:20 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:11:47 : Route: home created
+SUCCESS -> 30-12-2024 09:11:47 : Route: receipes created
+INFO -> 30-12-2024 09:11:47 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:11:47 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:11:47 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:11:48 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:11:48 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:11:58 : Route: home created
+SUCCESS -> 30-12-2024 09:11:58 : Route: receipes created
+INFO -> 30-12-2024 09:11:58 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:11:58 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:11:58 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:11:59 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:11:59 : Loading data from src/data/receipes.json
+SUCCESS -> 30-12-2024 09:12:30 : Route: home created
+SUCCESS -> 30-12-2024 09:12:30 : Route: receipes created
+INFO -> 30-12-2024 09:12:30 : Loading data from src/data/themes/dark.json
+INFO -> 30-12-2024 09:12:30 : Loading data from src/data/themes/white.json
+INFO -> 30-12-2024 09:12:30 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:12:30 : Loading data from src\data\langs\en.json
+INFO -> 30-12-2024 09:12:30 : Loading data from src/data/receipes.json

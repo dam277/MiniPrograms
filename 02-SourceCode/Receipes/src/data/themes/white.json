@@ -1,0 +1,46 @@
+{
+    "name": "white",
+    "parent": "default",
+    "settings":
+    {
+        "TButton":
+        {
+            "configure":
+            {
+                "background": "#ffffff",
+                "foreground": "#000000",
+                "font": ["Arial", 26],
+                "padding": 10
+            }
+        },
+        "TLabel":
+        {
+            "configure":
+            {
+                "background": "#ffffff",
+                "foreground": "#000000",
+                "font": ["Arial", 26],
+                "padding": 10
+            }
+        },
+        "TLblReceipes":
+        {
+            "configure":
+            {
+                "background": "#ffffff",
+                "foreground": "#000000",
+                "font": ["Arial", 12],
+                "padding": 10
+            }
+        },
+        "TFrame":
+        {
+            "configure":
+            {
+                "background": "#ffffff",
+                "foreground": "#000000",
+                "padding": 10
+            }
+        }
+    }
+}

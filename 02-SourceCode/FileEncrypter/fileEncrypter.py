@@ -157,10 +157,10 @@ if __name__ == "__main__":
     # Keep the loop running
     while keepLoop:
         main()
-        # Ask the user if he wants to continue
-        print("Do you want to continue?")
-        print("1. Yes")
-        print("2. No")
-        response = input("Enter response (1 or 2): ")
-        if response == "2":
-            keepLoop = False
+        # # Ask the user if he wants to continue
+        # print("Do you want to continue?")
+        # print("1. Yes")
+        # print("2. No")
+        # response = input("Enter response (1 or 2): ")
+        # if response == "2":
+        #     keepLoop = False

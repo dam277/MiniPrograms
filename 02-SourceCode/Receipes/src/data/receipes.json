@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "name": "Pâtes",
+        "description": "Recette de pâtes",
+        "ingredients": 
+        [
+            {
+                "name": "Pâtes",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Eau",
+                "quantity": 1,
+                "unit": "L"
+            },
+            {
+                "name": "Sel",
+                "quantity": 10,
+                "unit": "g"
+            },
+            {
+                "name": "Beurre",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Faire bouillir l'eau et ajouter le sel",
+                "duration": 5,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter les pâtes et le beurre",
+                "duration": 10,
+                "unit": "min"
+            },
+            {
+                "description": "Égoutter les pâtes",
+                "duration": 1,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter l'aromat",
+                "duration": 1,
+                "unit": "min"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Riz",
+        "description": "Recette de riz",
+        "ingredients": 
+        [
+            {
+                "name": "Riz",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Eau",
+                "quantity": 1,
+                "unit": "L"
+            },
+            {
+                "name": "Sel",
+                "quantity": 10,
+                "unit": "g"
+            },
+            {
+                "name": "Beurre",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Faire bouillir l'eau et ajouter le sel",
+                "duration": 5,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter le riz et le beurre",
+                "duration": 10,
+                "unit": "min"
+            },
+            {
+                "description": "Égoutter le riz",
+                "duration": 1,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter l'aromat",
+                "duration": 1,
+                "unit": "min"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Poulet",
+        "description": "Recette de poulet",
+        "ingredients": 
+        [
+            {
+                "name": "Poulet",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Sel",
+                "quantity": 10,
+                "unit": "g"
+            },
+            {
+                "name": "Poivre",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Faire cuire le poulet",
+                "duration": 10,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter le sel et le poivre",
+                "duration": 1,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter l'aromat",
+                "duration": 1,
+                "unit": "min"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Salade",
+        "description": "Recette de salade",
+        "ingredients": 
+        [
+            {
+                "name": "Salade",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Tomate",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Concombre",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Couper la salade, la tomate et le concombre",
+                "duration": 5,
+                "unit": "min"
+            },
+            {
+                "description": "Mélanger le tout",
+                "duration": 1,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter l'aromat",
+                "duration": 1,
+                "unit": "min"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Poisson",
+        "description": "Recette de poisson",
+        "ingredients": 
+        [
+            {
+                "name": "Poisson",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Sel",
+                "quantity": 10,
+                "unit": "g"
+            },
+            {
+                "name": "Poivre",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Faire cuire le poisson",
+                "duration": 10,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter le sel et le poivre",
+                "duration": 1,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter l'aromat",
+                "duration": 1,
+                "unit": "min"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Pomme de terre",
+        "description": "Recette de pomme de terre",
+        "ingredients": 
+        [
+            {
+                "name": "Pomme de terre",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Sel",
+                "quantity": 10,
+                "unit": "g"
+            },
+            {
+                "name": "Poivre",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Faire cuire les pommes de terre",
+                "duration": 10,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter le sel et le poivre",
+                "duration": 1,
+                "unit": "min"
+            },
+            {
+                "description": "Ajouter l'aromat",
+                "duration": 1,
+                "unit": "min"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Pain",
+        "description": "Recette de pain",
+        "ingredients": 
+        [
+            {
+                "name": "Farine",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "name": "Eau",
+                "quantity": 1,
+                "unit": "L"
+            },
+            {
+                "name": "Sel",
+                "quantity": 10,
+                "unit": "g"
+            },
+            {
+                "name": "Levure",
+                "quantity": 1,
+                "unit": "g"
+            },
+            {
+                "name": "Aromat",
+                "quantity": 1,
+                "unit": "g"
+            }
+        ],
+        "steps":
+        [
+            {
+                "description": "Mélanger la farine, l'eau, le sel et la levure",
+                "duration": 5,
+                "unit": "min"
+            },
+            {
+                "description": "Laisser reposer la pâte",
+                "duration": 10,
+                "unit": "min"
+            }
+        ]
+    }
+]

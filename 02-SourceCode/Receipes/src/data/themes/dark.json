@@ -1,0 +1,52 @@
+{
+    "name": "dark",
+    "parent": "alt",
+    "settings": {
+        "TButton": {
+            "configure": {
+                "background": "#000000",
+                "foreground": "#ffffff",
+                "font": ["Arial", 26],
+                "padding": 10
+            }
+        },
+        "TLabel": {
+            "configure": {
+                "background": "#000000",
+                "foreground": "#ffffff",
+                "font": ["Arial", 26],
+                "padding": 10
+            }
+        },
+        "Receipes.Treeview": {
+            "configure": {
+                "background": "#222222",
+                "foreground": "#ffffff",
+                "font": ["Arial", 10],
+                "fieldbackground": "#222222",
+                "borderwidth": 2,
+                "relief": "solid"
+            },
+            "map": {
+                "background": [["focus", "#000000"]],
+                "foreground": [["focus", "#ffffff"]]
+            }
+        },
+        "Receipes.Treeview.Heading": {
+            "configure": {
+                "background": "#000000",
+                "foreground": "#ffffff",
+                "font": ["Arial", 12],
+                "borderwidth": 2,
+                "relief": "solid"
+            }
+        },
+        "TFrame": {
+            "configure": {
+                "background": "#000000",
+                "foreground": "#ffffff",
+                "padding": 10
+            }
+        }
+    }
+}

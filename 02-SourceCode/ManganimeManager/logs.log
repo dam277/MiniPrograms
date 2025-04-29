@@ -209,3 +209,25 @@ ERROR -> 25-12-2024 02:29:04 : An error occurred: 'NoneType' object is not subsc
 ERROR -> 25-12-2024 02:29:04 : An error occurred: 'NoneType' object is not subscriptable
 ERROR -> 25-12-2024 02:29:04 : An error occurred: 'NoneType' object is not subscriptable
 INFO -> 25-12-2024 02:29:05 : Exiting the application...
+INFO -> 25-12-2024 03:58:53 : Registering command [Add]
+INFO -> 25-12-2024 03:58:53 : Registering command [Delete]
+INFO -> 25-12-2024 03:58:53 : Registering command [List]
+INFO -> 25-12-2024 03:58:53 : Registering command [Update]
+INFO -> 25-12-2024 03:58:53 : Loading data from e:\Development\01-Github\Repositories\others\MiniPrograms\02-SourceCode\ManganimeManager\src\data\app.json
+SUCCESS -> 25-12-2024 03:58:53 : Data loaded successfully
+INFO -> 25-12-2024 03:58:56 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 21:26:15 : Registering command [Add]
+INFO -> 25-12-2024 21:26:15 : Registering command [Delete]
+INFO -> 25-12-2024 21:26:15 : Registering command [List]
+INFO -> 25-12-2024 21:26:15 : Registering command [Update]
+INFO -> 25-12-2024 21:26:15 : Loading data from e:\Development\01-Github\Repositories\others\MiniPrograms\02-SourceCode\ManganimeManager\src\data\app.json
+SUCCESS -> 25-12-2024 21:26:15 : Data loaded successfully
+INFO -> 25-12-2024 21:26:19 : Loading data from src/data/animes.json
+INFO -> 25-12-2024 21:27:25 : Loading data from src/data/mangas.json
+INFO -> 25-12-2024 21:27:37 : Exiting the application...
+INFO -> 28-12-2024 20:50:11 : Registering command [Add]
+INFO -> 28-12-2024 20:50:11 : Registering command [Delete]
+INFO -> 28-12-2024 20:50:11 : Registering command [List]
+INFO -> 28-12-2024 20:50:11 : Registering command [Update]
+INFO -> 28-12-2024 20:50:11 : Loading data from e:\Development\01-Github\Repositories\others\MiniPrograms\02-SourceCode\ManganimeManager\src\data\app.json
+SUCCESS -> 28-12-2024 20:50:11 : Data loaded successfully
