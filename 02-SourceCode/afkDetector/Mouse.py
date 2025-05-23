@@ -28,9 +28,15 @@ class Mouse:
     def display_popup(self, message: str): 
         print("Popup displayed.")  
         popup = Popup()
+        thread = threading.Thread(target=popup.run_popup, args=(message,))
+        print (thread.is_alive())
         while True:  
-            if self.is_moving and not popup.is_alive():
-                threading.Thread(target=popup.run_popup, args=(message,)).start()
+            print("Checking if popup is alive...")
+            if self.is_moving and not popup.is_alive() and not thread.is_alive():
+                thread.start()
             else:
-                popup.hide_popup()
                 time.sleep(5)
+                thread = threading.Thread(target=popup.run_popup, args=(message,))
+                popup.hide_popup()
+
+            time.sleep(0.1)  # Adjust the sleep time as needed
