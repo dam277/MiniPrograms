@@ -27,12 +27,25 @@ def main():
     module.add_test(Test("Math TE4", date(2025, 6, 24)))
 
     module.add_test(Test("Comm TE1", date(2025, 3, 12)).set_grade(6.0))
-    module.add_test(Test("Comm TE2", date(2025, 6, 11)))
-    module.add_test(Test("Comm TE3", date(2025, 6, 11)))
+    module.add_test(Test("Comm TE2", date(2025, 6, 11)).set_grade(4.5))
+    module.add_test(Test("Comm TE3", date(2025, 6, 11)).set_grade(4.0))
 
     module.add_test(Test("Angl TE1", date(2025, 2, 24)).set_grade(4.0))
     module.add_test(Test("Angl TE2", date(2025, 3, 28)).set_grade(4.0))
-    module.add_test(Test("Angl TE3", date(2025, 6, 2)))
+    module.add_test(Test("Angl TE3", date(2025, 6, 2)).set_grade(4.0))
+
+    # module.add_test(Test("Math TE1", date(2025, 3, 5)).set_grade(3.0))
+    # module.add_test(Test("Math TE2", date(2025, 4, 9)).set_grade(4.0))
+    # module.add_test(Test("Math TE3", date(2025, 5, 22)))
+    # module.add_test(Test("Math TE4", date(2025, 6, 24)))
+
+    # module.add_test(Test("Comm TE1", date(2025, 3, 12)).set_grade(5.0))
+    # module.add_test(Test("Comm TE2", date(2025, 6, 11)).set_grade(4.5))
+    # module.add_test(Test("Comm TE3", date(2025, 6, 11)).set_grade(4.0))
+
+    # module.add_test(Test("Angl TE1", date(2025, 2, 24)).set_grade(4.0))
+    # module.add_test(Test("Angl TE2", date(2025, 3, 28)).set_grade(4.5))
+    # module.add_test(Test("Angl TE3", date(2025, 6, 2)).set_grade(4.0))
 
     # Print the current average
     print_title(f"Module: {module.name}")
