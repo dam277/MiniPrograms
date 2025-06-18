@@ -7,14 +7,10 @@
     },
     "absences": [
         {
-            "BRIT2": 2,
-            "INGL1": 13,
+            "BRIT2": 8,
+            "INGL1": 27,
             "INGP": 7,
             "OGEN": 11
-        },
-        {
-            "INGL1": 4,
-            "BRIT2": 6
         }
     ]
 }

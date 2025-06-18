@@ -30,6 +30,7 @@ class Mouse:
         popup = Popup()
         thread = threading.Thread(target=popup.run_popup, args=(message,))
         print (thread.is_alive())
+        
         while True:  
             print("Checking if popup is alive...")
             if self.is_moving and not popup.is_alive() and not thread.is_alive():
