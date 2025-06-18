@@ -1,6 +1,6 @@
 <?php
 require_once(__DIR__ . "/../core/Request.php");
-require_once(__DIR__ . "/../core/View.php");
+require_once(__DIR__ ."/../core/Response.php");
 require_once(__DIR__ . "/Router.php");
 
 class MainController 
@@ -30,29 +30,7 @@ class MainController
             "action" => $action,
         ] = Request::getRequest();
 
-        $viewInfos = Router::route(method:$method, action:$action);
-
-        $view = $viewInfos["view"] ?? null;
-        $variable = $viewInfos["variable"] ?? null;
-        $this->display($view, $variable);
-    }
-
-    private function display(View $view, ?array $variable = null)
-    {
-        if ($view === null || $view === "")
-            $view = "An error occurred while processing your request.";
-
-        if ($variable)
-            foreach ($variable as $key => $value) 
-                $$key = $value;
-        
-        // Include the includes
-        include_once(__DIR__ . "/../Views/includes/head.php");
-        include_once(__DIR__ . "/../Views/includes/header.php");
-        
-        $view->render();
-
-        include_once(__DIR__ . "/../Views/includes/footer.php");
+        Router::route(method:$method, action:$action)->render();
     }
 }   
 ?>

@@ -24,8 +24,8 @@ class View
 
     /**
      * Gets the content of a view file.
-     *  @param string $view The name of the view file to load.
-     *   @return ?View Returns the View object if found, null otherwise.
+     * @param string $viewName The name of the view file to load.
+     * @return ?View Returns the View object if found, null otherwise.
      */
     public static function getView(string $viewName): ?View
     {
@@ -45,14 +45,6 @@ class View
         foreach ($iterator as $file) 
             if ($file->isFile() && preg_match('/(.+)\.view\.php$/', $file->getFilename(), $matches)) 
                 self::$views[$matches[1]] = new self(path: $file->getPathname());
-    }
-
-    public function render(int $code = 200): void
-    {
-        http_response_code($code);
-        header("Content-Type: text/html; charset=UTF-8");
-
-        include_once $this->getpath();
     }
 }
 ?>

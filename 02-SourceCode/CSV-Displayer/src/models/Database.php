@@ -23,14 +23,17 @@ class Database
      */
     private function __construct(bool $withErrors)
     {
-        try {
+        try 
+        {
             $this->connector = new PDO(
-                "mysql:host=localhost;port=3306;dbname=weba-te03-2025;charset=UTF8",
+                "mysql:host=localhost;port=3306;dbname=p-datadisplayer;charset=UTF8",
                 "root",
                 "root"
             );
             $this->connector->setAttribute(PDO::ATTR_ERRMODE, $withErrors ? PDO::ERRMODE_EXCEPTION : PDO::ERRMODE_SILENT);
-        } catch (PDOException $e) {
+        } 
+        catch (PDOException $e) 
+        {
             throw $e;
         }
     }
@@ -68,9 +71,9 @@ class Database
     public function QueryPrepareExecute(string $query, array $binds, $class = null): array
     {
         $req = $this->connector->prepare($query);
-        foreach ($binds as $bind) {
+        foreach ($binds as $bind) 
             $req->bindValue($bind["param"], $bind["value"], $bind["type"]);
-        }
+        
         $req->execute();
         return $this->FormatData($req, $class);
     }

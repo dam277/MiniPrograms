@@ -35,13 +35,13 @@ abstract class Model
      * @param int $id ID of the record
      * @return array Record with the given ID
      */
-    public static function getById(int $id): array
+    public static function getById(int $id, string $where): array
     {
         // Get the database instance
         $db = Database::getInstance();
 
         // Prepare the query to get the data from the table by ID
-        $query = "SELECT * FROM " . static::class . " WHERE id = :id";
+        $query = "SELECT * FROM " . static::class . " WHERE $where";
         $binds =
         [
             ["param" => ":id", "value" => $id, "type" => PDO::PARAM_INT]

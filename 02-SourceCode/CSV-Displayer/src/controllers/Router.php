@@ -5,8 +5,7 @@
  * Description: This file contains the Router class, which is responsible for routing HTTP requests to the appropriate controllers and actions.
  */
 require_once(__DIR__ . "/../routes/routes.php");
-require_once(__DIR__ . "/../core/View.php");
-require_once("Controllers/Controller.php");
+require_once(__DIR__ . "/../core/Response.php");
 
 /**
  * Router class handles the routing of HTTP requests to the appropriate controllers and actions.
@@ -26,24 +25,24 @@ class Router
      * @param string|null $action The action to route to.
      * @return 
      */
-    public static function route(string $method, ?string $action): array
+    public static function route(string $method, ?string $action): Response
     {
         // Check if the action is set
         if ($action == null) 
-            return ["view" => View::getView(viewName:"400"), "variables" => null];
+            return new Response(httpCode: 400, view: View::getView(viewName:"400"));
         
         // Get the route based on the method and action with the associated parameters
         [$route, $params] = self::getRoute(method: $method, action: $action);
         
         // If no route is found, return a 404 response
         if ($route == null)
-            return ["view" => View::getView(viewName:"404"), "variables" => null];
+            return new Response(httpCode: 404, view: View::getView(viewName:"404"));
 
         $controller = new ($route?->getController())();
         $function = $route?->getFunction();
 
         if (!class_exists($route?->getController()) || !method_exists($controller, $function))
-            return ["view" => View::getView(viewName:"500"), "variables" => null];
+            return new Response(httpCode: 500, view: View::getView(viewName:"500"));
 
         return $controller->$function($params);
     }
