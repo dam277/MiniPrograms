@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Ophilia",
+        "primary_class": "Cleric",
+        "secondary_class": null,
+        "level": 1,
+        "description": "A kind cleric who travels to kindle the Sacred Flame.",
+        "image": "ophilia.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cyrus",
+        "primary_class": "Scholar",
+        "secondary_class": null,
+        "level": 1,
+        "description": "A royal scholar in search of a forbidden tome.",
+        "image": "cyrus.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tressa",
+        "primary_class": "Merchant",
+        "secondary_class": null,
+        "level": "24",
+        "description": "A cheerful merchant seeking adventure and profit.",
+        "image": "tressa.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Olberic",
+        "primary_class": "Warrior",
+        "secondary_class": null,
+        "level": 1,
+        "description": "A former knight seeking to test his blade.",
+        "image": "olberic.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Primrose",
+        "primary_class": "Dancer",
+        "secondary_class": "Scholar",
+        "level": "38",
+        "description": "A dancer seeking revenge for her father's murder.",
+        "image": "primrose.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Alfyn",
+        "primary_class": "Apothecary",
+        "secondary_class": null,
+        "level": 1,
+        "description": "A kind apothecary who helps those in need.",
+        "image": "alfyn.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Therion",
+        "primary_class": "Thief",
+        "secondary_class": null,
+        "level": "1",
+        "description": "A skilled thief bound by dragonstones.",
+        "image": "therion.jpg"
+    },
+    {
+        "id": 8,
+        "name": "H'aanit",
+        "primary_class": "Hunter",
+        "secondary_class": "Warrior",
+        "level": 1,
+        "description": "A skilled hunter tracking a dangerous beast.",
+        "image": "haanit.jpg"
+    }
+]
