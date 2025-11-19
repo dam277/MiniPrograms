@@ -23,6 +23,10 @@ Route::get(action:"characters",
     controller:CharacterController::class, function:"gameCharacters",
     params: ["gameId"]);
 
+Route::get(action:"characters",
+    controller:CharacterController::class, function:"characterDetails", 
+    params: ["id", "tab"]);
+
 Route::get(action:"game",
     controller:GameController::class, function:"game", 
     params: ["id"]);

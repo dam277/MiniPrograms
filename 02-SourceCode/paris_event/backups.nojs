@@ -1,0 +1,16 @@
+function addSampleEvent()
+{
+TimerEvent.addEvent(new TimerEvent({
+    name: "Lower Final",
+    date: "2025-10-04T13:00:00",
+    type: EventType.MATCH,
+    description: "Valorant Champions 2025 - Lower Final"
+}).toJson());
+}
+
+<button
+    onClick={addSampleEvent}
+    className="mt-8 px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded text-white"
+>
+    Add Sample Event
+</button>

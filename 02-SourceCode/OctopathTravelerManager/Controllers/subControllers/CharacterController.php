@@ -1,6 +1,8 @@
 <?php
 require_once(__DIR__ . "/../Controller.php");
 require_once(__DIR__ . "/../../Models/tables/Characters.php");
+require_once(__DIR__ . "/../../Models/tables/Classes.php");
+require_once(__DIR__ . "/../../Models/tables/WeaponTypes.php");
 
 class CharacterController extends Controller
 {
@@ -55,6 +57,42 @@ class CharacterController extends Controller
 
         // Render the game characters view
         $responseString = View::get(viewName: "character.default", params: ["characters" => $characters, "game" => $game]);
+        return new Response(httpCode: 200, responseString: $responseString);
+    }
+
+    public function characterDetails(array $params)
+    {
+        // Get the character ID from the parameters
+        [
+            "id" => $characterId,
+            "tab" => $tab
+        ] = $params;
+
+        // Validate the character ID
+        if (!isset($characterId) || !is_numeric($characterId)) {
+            return new Response(httpCode: 400, responseString: "Invalid or missing character ID.");
+        }
+
+        // Fetch the character details
+        $character = Characters::getById($characterId)[0];
+        if (!$character)
+            return new Response(httpCode: 404, responseString: "Character not found.");
+
+        $characterClasses = Classes::getAllByCharacterId($characterId);
+        if (!$characterClasses)
+            return new Response(httpCode: 404, responseString: "Character classes not found.");
+
+        $weaponTypes = WeaponTypes::getWeaponTypesByClassId(classId: $characterClasses[0]->id_class, id_secondaryClass: $characterClasses[1]->id_class ?? null);
+
+        $tabs = [
+            "stats" => "Stats",
+            "skills" => "Skills",
+            "equipment" => "Equipment",
+            "talents" => "Talents"
+        ];
+        
+        // Render the character details view
+        $responseString = View::get(viewName: "character.details", params: ["character" => $character, "classes" => $characterClasses, "tab" => $tab, "tabs" => $tabs, "weaponTypes" => $weaponTypes]);
         return new Response(httpCode: 200, responseString: $responseString);
     }
 }

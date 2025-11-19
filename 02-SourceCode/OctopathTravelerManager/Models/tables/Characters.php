@@ -15,7 +15,8 @@ class Characters extends Model
 {
     public int $id_character;
     public string $name;
-    public string $description;
+    public string $pathAction;
+    public string $talent;
     public string $image;
     public string $backgroundImage;
     public int $fk_game;
@@ -56,7 +57,7 @@ class Characters extends Model
     {
         // Get the database instance
         $db = Database::getInstance();
-        $query =    'SELECT c.id_character, c.name, c.level, c.description, c.image, c.backgroundImage, 
+        $query =    'SELECT c.*, 
                         cc.value AS "characteristicValue", 
                         ch.name AS "characteristicName", ch.image AS "characteristicImage",
                         g.name AS "gameName"

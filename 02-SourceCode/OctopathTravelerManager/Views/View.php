@@ -17,13 +17,10 @@ class View
         return ob_get_clean(); // Return the buffered content
     }
 
-        public static function getComponent(string $viewName, array $params = []): string
+    public static function getComponent(string $viewName, array $params = []): string
     {
-        $viewPath = __DIR__ . "/components/" . str_replace(".", "/", $viewName) . ".php";
-
-        if (!file_exists($viewPath)) {
-            throw new Exception("View file not found: " . $viewPath);
-        }
+        $path = __DIR__ . "/components/" . str_replace(".", "/", $viewName);
+        $viewPath = is_dir($path) ? $path . "/default.php" : $path . ".php";
 
         foreach ($params as $key => $value)
             $$key = $value; // Extract parameters to variables

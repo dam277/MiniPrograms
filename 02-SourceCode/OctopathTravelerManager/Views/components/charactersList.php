@@ -1,7 +1,7 @@
 <?php if (!empty($characters)): ?>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
         <?php foreach ($characters as $character): ?>
-            <div class="bg-gray-800/80 rounded-lg p-4 max-w-sm cursor-pointer transform transition-transform hover:scale-105 hover:shadow-lg">
+            <a href="?action=characters&id=<?= $character->id_character ?>&tab=stats" class="bg-gray-800/80 rounded-lg p-4 max-w-sm cursor-pointer transform transition-transform hover:scale-105 hover:shadow-lg">
                 <div class="flex items-center gap-4">
                     <!-- Character sprite/image -->
                     <div class="w-18 h-24 flex items-center">
@@ -39,7 +39,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </a>
         <?php endforeach; ?>
     </div>
 <?php else: ?>
