@@ -2,23 +2,42 @@ import Card from "./Card";
 
 function App() 
 {
-  const languages = ['JavaScript', 'C++', 'C#', 'Python', 'PHP', "Dart", 'Java', "Rust", "Go", "Ruby"];
-  const frameworks = ['Electron', 'React', 'Next', 'Angular', 'Vue', 'Astro', 'Nest', 'Svelte', "Meteor", 'Tree', 'Rails', 'Flask', 'Django', 'PySide6', 'Spring Boot', 'Laravel', "Symfony", "Flutter", "Maui", "SFML", "WPF", "LWJGL", "OpenGL"];
+  const languages = ['JavaScript', 'C++', 'C#', 'Python', 'PHP', "Dart", 'Java', "Rust", "Go", "Ruby", "Kotlin"];
+
+  // Group frameworks by their primary language for clearer UI
+  const frameworksByLanguage = {
+    JavaScript: ['Electron', 'React', 'React native', 'Next', 'Vue', 'Astro', 'Nest', 'Nuxt', 'Svelte', 'Meteor'],
+    'C++': ['OpenGL'],
+    'C#': ['Maui', 'WPF', 'SFML', "ASP.NET"],
+    Python: ['Flask', 'Django', 'PySide6'],
+    PHP: ['Laravel', 'Symfony'],
+    Dart: ['Flutter'],
+    Java: ['Spring Boot', 'LWJGL', 'Android - jv'],
+    Ruby: ['Rails'],
+    Kotlin: ['Android - kt'],
+    Rust: [],
+    Go: [],
+  };
 
   const projects = [
     { id: 1, name: 'NAS' },
     { 
       id: 2, 
-      name: "CDN",
-      languages: ["JavaScript", "PHP"],
-      frameworks: ["Vue", "Laravel"],
+      name: "CDN (Web)",
+      languages: ["PHP", "JavaScript"],
+      frameworks: ["Laravel", "Vue"],
     },
-    { id: 3, name: "Intranet website" },
+    { 
+      id: 3,
+      name: "Intranet (Web)", 
+      languages: ["C#", "JavaScript"],
+      frameworks: ["ASP.NET", "Nuxt"],
+    },
     { 
       id: 4, 
-      name: "Github manager", 
-      languages: ["JavaScript", "Python"],
-      frameworks: ["React", "Electron", "Flask"],
+      name: "Github manager (desktop)", 
+      languages: ["Python", "JavaScript"],
+      frameworks: ["Flask", "Electron"],
       tasks: [
         { id: 1, name: "Connect to GitHub API" },
         { id: 2, name: "List repositories" },
@@ -30,9 +49,9 @@ function App()
     },
     { 
       id: 5, 
-      name: "GestApp", 
-      languages: ["JavaScript", "PHP", "C#"],
-      frameworks: ["Next", "Laravel", "Maui"],
+      name: "GestApp (Web, desktop, mobile)", 
+      languages: ["PHP", "JavaScript", "C#", "Kotlin"],
+      frameworks: ["Laravel", "React", "WPF", "Android - kt"],
       tasks:[
         { id: 1, name: "BASE -- Authentication system" },
         { id: 2, name: "ME - Games library : Achievements, hours played, dlc, characters, genre, platforms..." },
@@ -53,8 +72,8 @@ function App()
     { 
       id: 6, 
       name: "Budget manager", 
-      languages: ["JavaScript", "Java"],
-      frameworks: ["Angular", "Spring Boot"],
+      languages: ["Java", "JavaScript"],
+      frameworks: ["Spring Boot", "Angular"],
       tasks:[
         { id: 1, name: "User authentication system" },
         { id: 2, name: "Dashboard" },
@@ -87,42 +106,107 @@ function App()
     {
       id: 10,
       name: "Converso",
+      languages: ["C#"],
+      frameworks: ["Maui"]
+    },
+    {
+      id: 11,
+      name: "PricePulse",
+      languages: ["Python", "Javascript"],
+      frameworks: ["Flask", "Meteor"]
+    },
+    {
+      id: 12,
+      name: "Portfolio website",
+      languages: ["JavaScript"],
+      frameworks: ["Astro"]
+    },
+    {
+      id: 0,
+      name: "School students manager",
       languages: ["Dart"],
       frameworks: ["Flutter"]
     },
     {
-      id: 11,
-      name: "Portfolio website",
+      id: 1,
+      name: "Server monitor app",
       languages: ["JavaScript"],
-      frameworks: ["Astro"]
+      frameworks: ["Next"]
+    },
+    {
+      id: 2,
+      name: "Dashboard app",
+      languages: ["JavaScript"],
+      frameworks: ["Svelte"]
+    },
+    {
+      id: 2,
+      name: "Games launcher + subgames",
+      languages: ["JavaScript"],
+      frameworks: ["React native"]
     }
   ];
 
+  // Determine which frameworks are used by at least one project
+  const usedFrameworks = new Set(projects.flatMap(proj => proj.frameworks || []));
+
+  // Determine unused languages (same logic as before)
   const unUsedLanguages = languages.filter(lang => !projects.some(proj => proj.languages && proj.languages.includes(lang)));
-  const unUsedFrameworks = frameworks.filter(fw => !projects.some(proj => proj.frameworks && proj.frameworks.includes(fw)));
+
+  projects.sort((a, b) => a.id - b.id);
 
   return (
     <div className="App bg-gray-800 min-h-screen p-8">
       <h1 className="text-white text-4xl font-bold text-left">Projects</h1>
-      <h2 className="text-gray-300 text-lg mt-2">Languages</h2>
+
+      <h2 className="text-gray-300 text-lg mt-6">Languages</h2>
       <div className="flex items-center space-x-3 flex-wrap">
         {languages.map(language => (
           <span key={language} className={`${unUsedLanguages.includes(language) ? "text-red-600 line-through" : "text-green-500"}`}>{language}</span>
         ))}
       </div>
 
-      <h2 className="text-gray-300 text-lg mt-2">Frameworks</h2>
-      <div className="flex items-center space-x-3 flex-wrap">
-        {frameworks.map(framework => (
-          <span key={framework} className={`${unUsedFrameworks.includes(framework) ? "text-red-600 line-through" : "text-green-500"}`}>{framework}</span>
-        ))}
+      <h2 className="text-gray-300 text-lg mt-6">Frameworks by Language</h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {languages.map(language => {
+          const frameworks = frameworksByLanguage[language] || [];
+          return (
+            <div key={language} className="bg-gray-700 p-4 rounded">
+              <div className="flex items-center justify-between">
+                <h3 className="text-white font-semibold">{language}</h3>
+                <span className="text-sm text-gray-300">{frameworks.length} framework{frameworks.length !== 1 ? 's' : ''}</span>
+              </div>
+
+              {frameworks.length === 0 ? (
+                <div className="text-gray-400 mt-2">No registered frameworks</div>
+              ) : (
+                <div className="flex flex-wrap items-center mt-3 space-x-3">
+                  {frameworks.map(fw => {
+                    const isUsed = usedFrameworks.has(fw);
+                    return (
+                      <span
+                        key={`${language}-${fw}`}
+                        className={`${isUsed ? "text-green-500" : "text-red-600 line-through"} text-sm`}
+                        title={isUsed ? "Used in at least one project" : "Not used in any project yet"}
+                      >
+                        {fw}
+                      </span>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+          );
+        })}
       </div>
 
+      <h2 className="text-gray-300 text-lg mt-8">Project List</h2>
       <div className="grid grid-cols-1 gap-6 mt-6">
         {projects.map(project => (
           <Card key={project.id + project.name} project={project}  />
         ))}
       </div>
+
       <div className="mt-8">
         <span className="text-gray-400">Total projects: {projects.length}</span>
       </div>
